@@ -28,7 +28,7 @@ Usa **Adicionar trabalho** e seleciona um modelo. O formato recomendado é **GLB
 
 Também podes usar **OBJ**: o visualizador aplica um material uniforme, sem carregar MTL ou texturas externas. Arrasta para rodar e usa a roda do rato ou um gesto de pinça para aproximar. Podes alternar a malha, parar a rotação e repor a vista.
 
-**Rembrandt: um retrato com presença** é uma referência de trabalho do projeto Metaseum. A imagem no site é uma pré-visualização da [demonstração original](https://avatar-api.metaseum-avatars.workers.dev/); abre essa ligação para explorar o avatar e os seus controlos no visualizador externo. O modelo e os controlos não são apresentados como criação da autora. A rotação local de objetos GLB/OBJ continua disponível para os trabalhos que acrescentares. **Pingas em diálogo** é um trabalho existente em p5.js.
+O **Estudo de superfície** é um objeto de demonstração do visualizador, identificado como tal. **Pingas em diálogo** é um trabalho existente em p5.js. O retrato generativo do site foi criado como ilustração deste arquivo e não é uma execução de CAP4D.
 
 ## As duas pastas entregues
 
@@ -39,6 +39,8 @@ Para experimentar a versão de desenvolvimento, usa uma pré-visualização de s
 
 ## Conteúdo inicial
 
-O arquivo reúne uma síntese retrospetiva preparada em 24 de novembro de 2026 a partir do diário e da biblioteca no Notion, de conversas de investigação e da identificação dos avatares patrimoniais Metaseum como referências efetivas de trabalho. As datas indicam os registos de origem; as fontes pessoais mantêm o seu acesso privado.
+O arquivo reúne uma síntese retrospetiva preparada em 24 de novembro de 2026 a partir do diário e da biblioteca no Notion, de conversas de investigação e da clarificação dos avatares patrimoniais como objeto de trabalho. As datas indicam os registos de origem; as fontes pessoais mantêm o seu acesso privado.
 
 A presença de uma referência não indica leitura ou teste concluído. As experiências propostas e a exploração de Fernando Pessoa estão identificadas como trabalho por realizar e documentar.
+
+O avatar referido na conversa como exemplo do contexto Timeleap foi criado pela **Broken Eggs**, que está a colaborar com o projeto. A imagem desse avatar não é usada no site.
