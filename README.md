@@ -42,5 +42,3 @@ Para experimentar a versão de desenvolvimento, usa uma pré-visualização de s
 O arquivo reúne uma síntese retrospetiva preparada em 24 de novembro de 2026 a partir do diário e da biblioteca no Notion, de conversas de investigação e da clarificação dos avatares patrimoniais como objeto de trabalho. As datas indicam os registos de origem; as fontes pessoais mantêm o seu acesso privado.
 
 A presença de uma referência não indica leitura ou teste concluído. As experiências propostas e a exploração de Fernando Pessoa estão identificadas como trabalho por realizar e documentar.
-
-O avatar referido na conversa como exemplo do contexto Timeleap foi criado pela **Broken Eggs**, que está a colaborar com o projeto. A imagem desse avatar não é usada no site.
