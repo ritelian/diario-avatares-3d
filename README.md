@@ -7,7 +7,7 @@ Diário de bordo de Rita Martins sobre avatares 3D, autoria, perceção e práti
 
 ## Atualizar o site publicado
 
-A versão publicada está reunida num único **`index.html`**, que inclui o design, os textos, as fontes e o funcionamento do site.
+O **`index.html`** reúne o design, os textos, as fontes e o funcionamento do site. A publicação inclui também o modelo do templo em **`assets/models/templo.gltf`** e o vídeo de entrada em **`assets/media/entrada-video.json`**. Ao exportares pelo editor, o vídeo e o modelo são incorporados no novo `index.html`, para facilitar as atualizações.
 
 1. Abre o site e escolhe **Gerir o arquivo**, no rodapé.
 2. Acrescenta ou edita notas, referências e trabalhos. Escolhe **Guardar neste navegador**.
@@ -18,9 +18,13 @@ A versão publicada está reunida num único **`index.html`**, que inclui o desi
 
 **Guardar neste navegador não torna as alterações públicas.** Cada navegador mantém a sua própria cópia. O editor não tem contas, palavra-passe ou acesso de administrador: quem visita o site pode experimentar alterações na sua cópia, mas só quem tem acesso ao repositório pode publicar a atualização.
 
-Guarda uma exportação antes de limpares os dados do navegador ou de mudares de computador. **Guardar dados (sem modelos)** conserva os textos e as referências; **Exportar site .zip** guarda a versão completa, incluindo os modelos acrescentados.
+Guarda uma exportação antes de limpares os dados do navegador ou de mudares de computador. **Guardar dados (sem modelos)** conserva os textos e as referências; **Exportar site .zip** guarda a versão completa, incluindo o vídeo de entrada e os modelos acrescentados.
 
 A publicação usa **Settings → Pages → Deploy from a branch**, com a branch **main** e a pasta **/(root)**.
+
+## Abertura do site
+
+A entrada apresenta o vídeo fornecido por Rita Martins, gerado com **Hailuo AI / MiniMax**, em ecrã inteiro. Ao desceres a página, o vídeo fecha-se numa janela preta e dá lugar ao templo. A marca de água Hailuo AI foi preservada. É um exemplo visual animado; o personagem do vídeo não responde ao visitante. O templo apresentado abaixo é o modelo 3D interativo.
 
 ## Acrescentar trabalhos 3D
 
@@ -28,11 +32,11 @@ Usa **Adicionar trabalho** e seleciona um modelo. O formato recomendado é **GLB
 
 Também podes usar **OBJ**: o visualizador aplica um material uniforme, sem carregar MTL ou texturas externas. Arrasta para rodar e usa a roda do rato ou um gesto de pinça para aproximar. Podes alternar a malha, parar a rotação e repor a vista.
 
-O **Estudo de superfície** é um objeto de demonstração do visualizador, identificado como tal. **Pingas em diálogo** é um trabalho existente em p5.js. O retrato generativo do site foi criado como ilustração deste arquivo e não é uma execução de CAP4D.
+**O templo** é a composição de Rita Martins para *Do Fragmento à Presença*, feita em Blender a partir da sua coluna original, com 24 instâncias, pavimento e cobertura. Conceção e montagem: Rita Martins; criação e edição com assistência de IA: OpenAI / Codex. O modelo aparece abaixo do vídeo de entrada e pode ser explorado em 3D, com rotação automática, arrasto, aproximação e reposição da vista. A versão web foi simplificada para acelerar o carregamento. **Pingas em diálogo** é um trabalho existente em p5.js.
 
 ## As duas pastas entregues
 
-- **`diario-3d-publicar`** contém a versão de um só ficheiro usada na publicação. Para atualizar esta versão, segue os passos acima. Não é necessário editar um `content.json` separado.
+- **`diario-3d-publicar`** contém a versão preparada para publicação, com `index.html` e os recursos do vídeo e do templo. As exportações feitas no editor incorporam esses recursos num único `index.html`. Para atualizar, segue os passos acima; não é necessário editar um `content.json` separado.
 - **`diario-3d`** contém a versão de desenvolvimento, com os textos em `content.json` e o design e funcionamento em ficheiros separados. Esta pasta é opcional e destina-se a alterações mais profundas. Mudar o seu `content.json` não atualiza o site publicado.
 
 Para experimentar a versão de desenvolvimento, usa uma pré-visualização de sites. Se tiveres Python, podes abrir um terminal nessa pasta, executar `python3 -m http.server 8000` e visitar <http://localhost:8000>. Nessa versão, um duplo clique em `index.html` pode impedir o carregamento dos conteúdos.
