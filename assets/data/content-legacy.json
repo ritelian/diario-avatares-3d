@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "title": "Entre o corpo e o digital",
+    "author": "Rita Eliana Pacheco Martins",
+    "updated": "2026-11-25",
+    "coverageNote": "Síntese retrospetiva organizada em 24 de novembro de 2026 a partir do diário e da biblioteca de estudo no Notion e das conversas de investigação de 19 de novembro. As datas das entradas referem-se aos registos de origem. A biblioteca reúne referências; não implica leituras ou testes concluídos. As experiências propostas e a exploração de Fernando Pessoa aguardam realização e documentação. O título de investigação e o artefacto artístico permanecem em desenvolvimento."
+  },
+  "journal": [
+    {
+      "id": "visual-memoria",
+      "date": "2026-11-19",
+      "title": "O que fica de um avatar na memória?",
+      "category": "Reflexão",
+      "tags": [
+        "perceção",
+        "memória",
+        "métricas",
+        "artigo"
+      ],
+      "summary": "Do realismo visual à recordação: delimitar a pergunta para o artigo e perceber o que as métricas permitem afirmar.",
+      "body": [
+        "No brainstorming para o artigo, coloquei a hipótese de uma pessoa interagir com avatares diferentes e, horas ou dias depois, recordar um deles. Quero perceber que papel poderão ter os olhos, a textura da pele, as expressões e o movimento nessa recordação.",
+        "Clarifiquei que o meu interesse é lembrar-se do avatar e dos seus detalhes, e não apenas reconhecer uma identidade quando volta a ser apresentada. A recordação do avatar também deve ser distinguida da recordação do conteúdo de uma conversa.",
+        "Foi discutida uma aproximação entre a avaliação técnica de criação e renderização e a investigação sobre perceção e memória. PSNR, SSIM, LPIPS, fidelidade de identidade e desempenho podem descrever aspetos do resultado técnico, mas não constituem, por si, medidas de memória humana.",
+        "O recorte do artigo e a pergunta de investigação continuam em desenvolvimento. Esta entrada reúne questões e critérios discutidos; não apresenta resultados experimentais."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://chatgpt.com/c/6aff191b-bc3c-83ed-9606-d02b8007cb4d"
+        }
+      ],
+      "status": "Síntese retrospetiva · por rever"
+    },
+    {
+      "id": "estudo-computacional",
+      "date": "2026-11-19",
+      "title": "Explorar a memorabilidade prevista",
+      "category": "Investigação",
+      "tags": [
+        "memorabilidade",
+        "rostos sintéticos",
+        "reflexos corneanos",
+        "proposta"
+      ],
+      "summary": "Uma proposta de estudo computacional com rostos sintéticos para relacionar pistas visuais e previsões de memorabilidade.",
+      "body": [
+        "Explorei uma possibilidade de estudo computacional com rostos sintéticos, centrada na forma como um modelo de previsão de memorabilidade responde a alterações de uma característica visual.",
+        "A proposta é preparar variantes controladas das mesmas imagens, alterando os reflexos nos olhos, e observar a resposta de um modelo já treinado. As variantes deverão conservar a restante imagem, para permitir uma comparação interpretável.",
+        "Nesta proposta, seria necessário verificar o que acontece à pista visual após o redimensionamento e o recorte usados pelo modelo, e documentar as alterações de imagem. Uma variação da previsão do modelo não demonstraria uma mudança na memória humana.",
+        "O desenho experimental continua a ser uma proposta de trabalho. A preparação das imagens, a seleção do modelo e a extração de previsões são etapas por realizar e documentar."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://chatgpt.com/c/6aff22d0-d0b0-83eb-9807-db354090d703"
+        }
+      ],
+      "status": "Proposta de experiência · por validar"
+    },
+    {
+      "id": "pessoa-no-mac",
+      "date": "2026-11-19",
+      "title": "Fernando Pessoa: da imagem ao 3D",
+      "category": "Exploração",
+      "tags": [
+        "Fernando Pessoa",
+        "Mac M4",
+        "imagem para 3D",
+        "LAM",
+        "PlayCanvas"
+      ],
+      "summary": "Procurar uma alternativa de geração automática a partir de imagens que possa integrar um fluxo de trabalho no Mac.",
+      "body": [
+        "Considerei criar um avatar patrimonial de Camões ou Fernando Pessoa a partir das imagens disponíveis e escolhi explorar Fernando Pessoa, para quem tenho mais referências fotográficas.",
+        "O processo que procuro parte de uma imagem e produz automaticamente um resultado 3D, à semelhança da abordagem de criação discutida a partir do CAP4D. Quero explorar esse percurso aplicado a Fernando Pessoa.",
+        "Foram discutidas ferramentas de geração de modelos, incluindo Stable Fast 3D e a aplicação 3D Mate, e o LAM como possível caminho para uma cabeça animável. PlayCanvas e SuperSplat foram considerados para visualização e apresentação. A execução e a compatibilidade no meu equipamento continuam por testar.",
+        "A distinção que fica para a próxima experiência é entre gerar um objeto com geometria e textura e gerar uma cabeça preparada para expressões faciais. Não há, nos registos consultados, um modelo de Pessoa já produzido ou uma ferramenta escolhida e validada."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://chatgpt.com/c/6aff2ef1-0bec-83ed-8f8f-0e94f661b423"
+        }
+      ],
+      "status": "Exploração de ferramentas · teste pendente"
+    },
+    {
+      "id": "ponto-de-partida",
+      "date": "2026-11-08",
+      "title": "Dar presença a uma imagem",
+      "category": "Investigação",
+      "tags": [
+        "autoria",
+        "património",
+        "avatares",
+        "IA"
+      ],
+      "summary": "O início do diário: aproximar arte, educação e inteligência artificial através da criação de avatares patrimoniais.",
+      "body": [
+        "Inicio este diário para acompanhar a aproximação entre os meus interesses na arte, na educação e na inteligência artificial e o estudo da criação de avatares patrimoniais. O título de trabalho da proposta dá-me um ponto de partida, mas o contributo artístico a desenvolver em PMAD ainda precisa de ser delimitado.",
+        "Quero compreender como se passa de um retrato a um avatar tridimensional animável. O CAP4D surge como referência inicial nas conversas de orientação, e o Brush como uma ferramenta a conhecer. O primeiro desafio é perceber o papel de cada um e distinguir criação, animação, renderização e comportamento conversacional.",
+        "Interessa-me dar movimento e presença a uma imagem e explorar uma relação entre o avatar e o público. Que escolhas consigo controlar? O que propõe o sistema? O que muda quando alguém interage com o resultado? Estas são questões de exploração, ainda não uma pergunta de investigação aprovada."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://app.notion.com/p/41297a90c81b8106b387d1e9df88d19a"
+        }
+      ],
+      "status": "Entrada de preparação"
+    },
+    {
+      "id": "biblioteca-de-estudo",
+      "date": "2026-11-08",
+      "title": "Organizar o mapa de leituras",
+      "category": "Investigação",
+      "tags": [
+        "CAP4D",
+        "Gaussian Splatting",
+        "Brush",
+        "estado da arte"
+      ],
+      "summary": "Uma biblioteca inicial para distinguir o que cria o avatar, o que o anima e o que o apresenta.",
+      "body": [
+        "Foi organizada uma biblioteca de estudo sobre avatares, autoria e criação. O percurso começa pelo CAP4D, pelos fundamentos de 3D Gaussian Splatting e pela exploração do Brush; inclui ainda alternativas para comparar, como SOAP e AvatarArtist.",
+        "A ficha de leitura deverá registar o problema, os dados de entrada, a representação produzida, os controlos, a avaliação, as limitações e os requisitos. Na comparação, importa separar o tempo de preparação do avatar do custo da animação e da renderização.",
+        "Reunir e organizar referências é preparação para o estudo. Não significa que já tenha lido integralmente os artigos ou testado os métodos. A próxima etapa é preencher fichas com o que efetivamente aprendi e documentar as condições de cada experiência."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://app.notion.com/p/41297a90c81b818b8227c48d02c36a6e"
+        }
+      ],
+      "status": "Biblioteca organizada · leituras por registar"
+    }
+  ],
+  "papers": [
+    {
+      "id": "cap4d",
+      "shortTitle": "CAP4D",
+      "title": "CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models",
+      "authors": "Felix Taubner, Ruihang Zhang, Mathieu Tuli, David B. Lindell",
+      "year": 2025,
+      "venue": "CVPR 2025",
+      "status": "Referência",
+      "tags": [
+        "Difusão multi-view",
+        "Avatares 4D",
+        "3D Gaussian Splatting"
+      ],
+      "summary": "Cria avatares de retrato animáveis a partir de uma ou várias imagens. Primeiro gera vistas e expressões com um modelo de difusão; depois ajusta uma representação de Gaussianas 3D controlada por um modelo facial.",
+      "question": "Como varia a identidade e a consistência entre vistas quando muda o número de imagens de referência?",
+      "projectUrl": "https://felixtaubner.github.io/cap4d/",
+      "paperUrl": "https://arxiv.org/abs/2412.12093",
+      "codeUrl": "https://github.com/felixtaubner/cap4d/"
+    },
+    {
+      "id": "lam",
+      "shortTitle": "LAM",
+      "title": "LAM: Large Avatar Model for One-shot Animatable Gaussian Head",
+      "authors": "Yisheng He et al.",
+      "year": 2025,
+      "venue": "SIGGRAPH 2025",
+      "status": "Referência",
+      "tags": [
+        "Avatares",
+        "Imagem única",
+        "3D Gaussian Splatting"
+      ],
+      "summary": "Reconstrói uma cabeça animável com Gaussianas 3D a partir de uma imagem numa passagem de inferência. Usa uma representação canónica e skinning para controlar a animação, com demonstrações em navegador e dispositivos móveis.",
+      "question": "Como se compara a reconstrução numa passagem com o ajuste por sujeito usado noutras abordagens?",
+      "projectUrl": "https://aigc3d.github.io/projects/LAM/",
+      "paperUrl": "https://arxiv.org/abs/2502.17796",
+      "codeUrl": "https://github.com/aigc3d/LAM",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados na página oficial; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "soap",
+      "shortTitle": "SOAP",
+      "title": "SOAP: Style-Omniscient Animatable Portraits",
+      "authors": "Tingting Liao et al.",
+      "year": 2025,
+      "venue": "SIGGRAPH 2025",
+      "status": "Referência",
+      "tags": [
+        "Avatares estilizados",
+        "Malha",
+        "Difusão multi-view"
+      ],
+      "summary": "Produz avatares de cabeça com malha, textura e rig a partir de um retrato, incluindo estilos não realistas. Combina difusão multi-view com um processo de ajuste e rigging baseado em FLAME.",
+      "question": "Como manter a topologia, o controlo de expressão e a consistência entre vistas em rostos estilizados?",
+      "projectUrl": "https://tingtingliao.github.io/soap/",
+      "paperUrl": "https://arxiv.org/abs/2505.05022",
+      "codeUrl": "https://github.com/TingtingLiao/soap",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados na página oficial e no paper; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "avatarartist",
+      "shortTitle": "AvatarArtist",
+      "title": "AvatarArtist: Open-Domain 4D Avatarization",
+      "authors": "Hongyu Liu et al.",
+      "year": 2025,
+      "venue": "CVPR 2025",
+      "status": "Referência",
+      "tags": [
+        "Avatares 4D",
+        "Triplanes",
+        "Avatares estilizados"
+      ],
+      "summary": "Cria uma representação de avatar 4D a partir de um retrato em diferentes estilos. Combina triplanes paramétricos, modelos generativos e um renderer condicionado pelo movimento e pela imagem de referência.",
+      "question": "Como preservar a aparência de um retrato estilizado ao mudar expressão, pose e ponto de vista?",
+      "projectUrl": "https://kumapowerliu.github.io/AvatarArtist/",
+      "paperUrl": "https://arxiv.org/abs/2503.19906",
+      "codeUrl": "https://github.com/ant-research/AvatarArtist",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados na página oficial e no paper; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "gaussianavatars",
+      "shortTitle": "GaussianAvatars",
+      "title": "GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians",
+      "authors": "Shenhan Qian et al.",
+      "year": 2024,
+      "venue": "CVPR 2024",
+      "status": "Referência",
+      "tags": [
+        "Avatares",
+        "Rigging",
+        "3D Gaussian Splatting"
+      ],
+      "summary": "Liga Gaussianas 3D a uma malha facial paramétrica para controlar a expressão, a pose e o ponto de vista. É uma base de reconstrução usada pelo CAP4D.",
+      "question": "Como preservar detalhe visual ao deformar a malha facial?",
+      "projectUrl": "https://shenhanqian.github.io/gaussian-avatars",
+      "paperUrl": "https://arxiv.org/abs/2312.02069",
+      "codeUrl": "https://github.com/ShenhanQian/GaussianAvatars"
+    },
+    {
+      "id": "stable-fast-3d",
+      "shortTitle": "Stable Fast 3D",
+      "title": "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
+      "authors": "Mark Boss, Zixuan Huang, Aaryaman Vasishta, Varun Jampani",
+      "year": 2024,
+      "venue": "arXiv 2024 · CVPR 2025",
+      "status": "Referência",
+      "tags": [
+        "Imagem para 3D",
+        "Malha",
+        "Texturas UV"
+      ],
+      "summary": "Reconstrói uma malha 3D texturada de um objeto a partir de uma imagem. Inclui abertura UV, previsão de materiais e redução de iluminação incorporada na cor, para facilitar a utilização noutras condições de luz.",
+      "question": "Que qualidade geométrica e de textura se obtém ao exportar os objetos para GLB e voltar a iluminá-los?",
+      "projectUrl": "https://stable-fast-3d.github.io/",
+      "paperUrl": "https://arxiv.org/abs/2408.00653",
+      "codeUrl": "https://github.com/Stability-AI/stable-fast-3d",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados no projeto oficial e no paper; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "3dgs",
+      "shortTitle": "3D Gaussian Splatting",
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "authors": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis",
+      "year": 2023,
+      "venue": "SIGGRAPH 2023",
+      "status": "Referência",
+      "tags": [
+        "Representação 3D",
+        "Rendering",
+        "Gaussianas"
+      ],
+      "summary": "Representa cenas com Gaussianas 3D e usa um processo de projeção eficiente para sintetizar novas vistas. É uma referência fundamental para compreender a representação visual de vários avatares recentes.",
+      "question": "Que compromissos existem entre detalhe, quantidade de Gaussianas e velocidade?",
+      "projectUrl": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "paperUrl": "https://arxiv.org/abs/2308.04079",
+      "codeUrl": "https://github.com/graphdeco-inria/gaussian-splatting"
+    },
+    {
+      "id": "nerf",
+      "shortTitle": "NeRF",
+      "title": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+      "authors": "Ben Mildenhall et al.",
+      "year": 2020,
+      "venue": "ECCV 2020",
+      "status": "Referência",
+      "tags": [
+        "Neural rendering",
+        "Campos de radiância",
+        "Síntese de vistas"
+      ],
+      "summary": "Aprende uma função contínua de densidade e radiância a partir de imagens com poses de câmara conhecidas. É uma referência para estudar síntese de vistas e comparar representações implícitas com Gaussianas explícitas.",
+      "question": "Como se comparam o controlo, o custo e a edição em representações implícitas e explícitas?",
+      "projectUrl": "https://www.matthewtancik.com/nerf",
+      "paperUrl": "https://arxiv.org/abs/2003.08934",
+      "codeUrl": "https://github.com/bmild/nerf"
+    },
+    {
+      "id": "flame",
+      "shortTitle": "FLAME",
+      "title": "Learning a model of facial shape and expression from 4D scans",
+      "authors": "Tianye Li, Timo Bolkart, Michael J. Black, Hao Li, Javier Romero",
+      "year": 2017,
+      "venue": "SIGGRAPH Asia 2017",
+      "status": "Referência",
+      "tags": [
+        "Modelo paramétrico",
+        "Expressão",
+        "3DMM"
+      ],
+      "summary": "Modelo facial paramétrico que combina forma, expressão e articulação da cabeça, mandíbula e olhos. Permite descrever e controlar deformações faciais com um conjunto compacto de parâmetros.",
+      "question": "Que expressões e articulações podem ser controladas diretamente?",
+      "projectUrl": "https://flame.is.tue.mpg.de/",
+      "paperUrl": "https://flame.is.tue.mpg.de/",
+      "codeUrl": "https://github.com/TimoBolkart/FLAME_PyTorch"
+    }
+  ],
+  "techniques": [
+    {
+      "id": "parametric",
+      "name": "Modelos faciais paramétricos",
+      "label": "Forma e expressão",
+      "description": "Representam a geometria e os movimentos do rosto através de parâmetros. FLAME é uma referência nesta família.",
+      "related": [
+        "flame"
+      ],
+      "sourceUrl": "https://flame.is.tue.mpg.de/"
+    },
+    {
+      "id": "radiance",
+      "name": "Campos de radiância",
+      "label": "Neural rendering",
+      "description": "Aprendem a aparência de uma cena para produzir imagens de novos pontos de vista. NeRF é uma referência fundadora.",
+      "related": [
+        "nerf"
+      ],
+      "sourceUrl": "https://www.matthewtancik.com/nerf"
+    },
+    {
+      "id": "gaussian",
+      "name": "3D Gaussian Splatting",
+      "label": "Representação explícita",
+      "description": "Usa Gaussianas 3D para representar e projetar a aparência de uma cena. Em avatares, estas podem acompanhar a deformação de uma malha facial.",
+      "related": [
+        "3dgs",
+        "gaussianavatars"
+      ],
+      "sourceUrl": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/"
+    },
+    {
+      "id": "diffusion",
+      "name": "Difusão multi-view",
+      "label": "Geração condicionada",
+      "description": "Gera várias vistas coerentes a partir das referências. No CAP4D, o condicionamento inclui ponto de vista, pose e expressão.",
+      "related": [
+        "cap4d"
+      ],
+      "sourceUrl": "https://felixtaubner.github.io/cap4d/"
+    },
+    {
+      "id": "brush",
+      "name": "Brush",
+      "label": "Ferramenta de reconstrução e visualização",
+      "description": "Ferramenta para treinar e visualizar Gaussian splats. A visualização de animações, incluindo exportações CAP4D, é uma função distinta da criação e do controlo facial de um avatar completo.",
+      "related": [
+        "3dgs",
+        "cap4d"
+      ],
+      "sourceUrl": "https://github.com/ArthurBrussee/brush"
+    }
+  ],
+  "cap4dStages": [
+    {
+      "label": "Referências",
+      "description": "Uma ou várias imagens de entrada."
+    },
+    {
+      "label": "Tracking facial",
+      "description": "Estimativa de pose, expressão e parâmetros de um modelo facial."
+    },
+    {
+      "label": "Difusão multi-view",
+      "description": "Geração de novas vistas e expressões com o MMDM."
+    },
+    {
+      "label": "Reconstrução 4D",
+      "description": "Ajuste do avatar com Gaussianas 3D deformáveis."
+    },
+    {
+      "label": "Animação",
+      "description": "Controlo do avatar através do modelo facial e rendering em tempo real."
+    }
+  ],
+  "works": [
+    {
+      "id": "templo",
+      "title": "O templo",
+      "type": "Do Fragmento à Presença · Blender",
+      "description": "Ambiente virtual desenvolvido em Blender para Do Fragmento à Presença. A coluna do exercício de animação repete-se numa colunata com 24 elementos, pavimento em lajes e passagem em profundidade. A composição foi pensada para um percurso em primeira pessoa; aqui pode ser explorada como objeto 3D.",
+      "model": "assets/models/templo.gltf",
+      "poster": "assets/models/templo-capa.jpg",
+      "year": "2026",
+      "status": "Trabalho da autora",
+      "credits": "Conceção e montagem: Rita Martins. Criação e edição com assistência de IA: OpenAI / Codex."
+    },
+    {
+      "id": "pingas",
+      "title": "Pingas em diálogo",
+      "type": "Arte generativa · p5.js",
+      "description": "Experiência interativa sobre regras, continuidade e participação do público. Um trabalho da minha prática artística que dialoga com as questões deste arquivo.",
+      "url": "https://editor.p5js.org/RitaEli/sketches/h-GV4TsB4",
+      "year": "p5.js",
+      "visual": "pingas",
+      "status": "Trabalho existente"
+    }
+  ]
+}
