@@ -56,3 +56,11 @@ modelo 3D do templo, explorável na secção seguinte.
 Ficheiro fornecido: Hailuo_Video_Continue from the reference sc_581255314155089929.mp4
 Recursos web: assets/media/entrada-video.mp4 e entrada-video.json.
 A imagem entrada-capa.jpg é um fotograma de pré-visualização do mesmo vídeo.
+
+Cabeça 3D procedural — Anatomia de um avatar
+Ilustração didática original, com geometria gerada por regras matemáticas
+para este site e apresentada em linhas e pontos. Não é uma digitalização,
+um avatar patrimonial ou um resultado produzido por CAP4D.
+Direção visual indicada pela autora: https://recurziv.com/
+Esta referência orienta o estilo; não foram reutilizados modelos, imagens,
+texturas ou código desse site.
