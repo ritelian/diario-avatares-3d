@@ -68,3 +68,32 @@ de CAP4D ou um avatar patrimonial validado.
 Imagem de origem criada para o projeto: avatar-pessoa-luminoso.png.
 Referência de direção visual indicada pela autora: https://recurziv.com/
 Não foram reutilizados modelos, imagens, texturas ou código desse site.
+
+Portefólio — Pingas em diálogo
+Rita Martins · criação em p5.js. Trabalho desenvolvido para o Professor Pedro
+no contexto de Imagens que lembram, conforme informação fornecida pela autora.
+A capa é uma composição produzida pelo modo de exemplo da própria obra,
+com dois participantes simulados. Foi capturada a partir da obra pública
+e adaptada para apresentação em assets/media/pingas-capa.jpg. Não é o
+registo de uma nova sessão com participantes reais.
+Obra: https://ritelian.github.io/pingas-em-dialogo/#obra
+Documentação: https://ritelian.github.io/pingas-em-dialogo/#sobre
+Código: https://github.com/ritelian/pingas-em-dialogo
+
+Portefólio — Coluna em movimento
+Rita Martins · exercício de Animação Digital em Blender.
+Fonte: Rita_Martins_Animacao_3D_preview.mp4, fornecido pela autora na pasta DMAD.
+A pré-visualização web mantém 600 × 600 píxeis, 60 fotogramas, 15 fps e
+quatro segundos, sem áudio. A capa é um fotograma do próprio vídeo.
+Recursos: assets/media/animacao-digital.mp4 e animacao-digital-capa.jpg.
+O pacote assets/media/portfolio-assets.json inclui apenas este vídeo,
+a sua capa e a capa de Pingas em diálogo.
+
+Textos, propostas e registos de formação
+As Faces de Pessoa, Encontros no Renascimento e O rosto que fica são
+apresentados como propostas ou conceitos a desenvolver, com sínteses
+dos documentos pessoais fornecidos pela autora. A entrada da 2.ª Atividade
+Formativa de Estudo de Estado da Arte mantém o estado Esboço em revisão,
+com três referências bibliográficas. Não indica entrega ou aprovação.
+A proposta de artigo, os documentos da pasta Paper e os documentos pessoais
+integrais não são distribuídos no pacote do site.
