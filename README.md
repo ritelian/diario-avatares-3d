@@ -26,6 +26,10 @@ A publicação usa **Settings → Pages → Deploy from a branch**, com a branch
 
 A entrada apresenta o vídeo fornecido por Rita Martins, gerado com **Hailuo AI / MiniMax**, em ecrã inteiro. Ao desceres a página, o vídeo fecha-se numa janela preta e dá lugar ao templo. A marca de água Hailuo AI foi preservada. É um exemplo visual animado; o personagem do vídeo não responde ao visitante. O templo apresentado abaixo é o modelo 3D interativo.
 
+## Visualização das técnicas
+
+A cabeça em linhas e pontos na secção **Anatomia de um avatar** é uma ilustração didática 3D, gerada por regras geométricas para este site. Ajuda a visualizar forma, superfície e representação. Não representa uma pessoa ou um avatar patrimonial, nem é um resultado de CAP4D.
+
 ## Acrescentar trabalhos 3D
 
 Usa **Adicionar trabalho** e seleciona um modelo. O formato recomendado é **GLB**, com geometria, materiais e texturas no mesmo ficheiro, sem compressão Draco ou Meshopt e sem texturas KTX2/Basis.
