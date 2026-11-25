@@ -28,7 +28,7 @@ A entrada apresenta o vídeo fornecido por Rita Martins, gerado com **Hailuo AI 
 
 ## Visualização das técnicas
 
-O retrato luminoso na secção **Anatomia de um avatar** é uma ilustração artística criada com IA e inspirada em Fernando Pessoa, em tons de marfim e sálvia. A imagem é apresentada numa superfície curva com inclinação e parallax suaves, criando profundidade aparente. Não é uma reconstrução facial 3D, um resultado de CAP4D ou um avatar patrimonial validado.
+O retrato luminoso na secção **Anatomia de um avatar** é uma ilustração artística criada com IA e inspirada em Fernando Pessoa, em tons de marfim e sálvia. A partir da mesma imagem, uma profundidade facial aproximada permite movimentos suaves de cabeça e olhar. O olhar acompanha a interação e o movimento pode ser pausado; a apresentação respeita a preferência de redução de movimento do navegador. É uma animação com profundidade estimada, sem reconstrução facial validada ou modelo completo para observar de todos os ângulos. Não é um resultado de CAP4D ou um avatar patrimonial validado.
 
 ## Acrescentar trabalhos 3D
 
