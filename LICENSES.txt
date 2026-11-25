@@ -1,0 +1,58 @@
+AVISOS DE LICENÇA E FONTES
+
+Código e elementos originais
+O código específico do site, os desenhos e os objetos procedurais de demonstração
+foram criados para este projeto. Não foi acrescentada uma licença pública ao
+material original. A autora pode escolher uma licença antes de o distribuir.
+Os objetos de demonstração não representam trabalhos anteriores da autora.
+
+Componentes de terceiros incluídos
+
+Three.js r170 — MIT
+Inclui o motor e os módulos OrbitControls, GLTFLoader, OBJLoader e
+BufferGeometryUtils. Aviso integral: assets/vendor/three/LICENSE.txt
+Fonte: https://github.com/mrdoob/three.js/tree/r170
+
+fflate 0.8.2 — MIT
+Aviso integral: assets/vendor/fflate-LICENSE.txt
+Fonte: https://github.com/101arrowz/fflate/tree/v0.8.2
+
+DM Sans — SIL Open Font License 1.1
+Aviso integral: assets/vendor/dm-sans-OFL.txt
+Fonte: https://github.com/google/fonts/tree/main/ofl/dmsans
+
+Instrument Serif — SIL Open Font License 1.1
+Aviso integral: assets/vendor/instrument-serif-OFL.txt
+Fonte: https://github.com/google/fonts/tree/main/ofl/instrumentserif
+
+Referências científicas
+Os resumos bibliográficos foram redigidos para o site e remetem para as fontes
+primárias. São referências para consulta, não um registo de leituras ou testes
+já realizados pela autora. Não são distribuídos código, pesos de modelos,
+datasets, figuras dos papers ou resultados científicos desses projetos no pacote do site. A citação
+de um trabalho não atribui ao site a licença do respetivo software. Se forem
+adicionados esses materiais no futuro, devem ser preservados os seus avisos
+de licença e atribuição.
+
+CAP4D: https://felixtaubner.github.io/cap4d/
+GaussianAvatars: https://shenhanqian.github.io/gaussian-avatars
+3D Gaussian Splatting: https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/
+FLAME: https://flame.is.tue.mpg.de/
+NeRF: https://www.matthewtancik.com/nerf
+
+Manter os avisos integrais acima ao copiar ou publicar o site.
+
+Templo — Do Fragmento à Presença
+Conceção e montagem: Rita Martins. Coluna original fornecida por Rita Martins.
+Criação e edição com assistência de IA: OpenAI / Codex.
+A versão web simplifica a geometria e reduz a resolução da textura para carregamento.
+
+Vídeo de entrada — Hailuo AI / MiniMax
+Vídeo gerado com Hailuo AI / MiniMax e fornecido por Rita Martins para
+a abertura do site. A marca de água Hailuo AI do ficheiro foi preservada.
+O personagem é apresentado como exemplo visual animado, sem interação
+conversacional ou controlo facial pelo visitante. O vídeo é distinto do
+modelo 3D do templo, explorável na secção seguinte.
+Ficheiro fornecido: Hailuo_Video_Continue from the reference sc_581255314155089929.mp4
+Recursos web: assets/media/entrada-video.mp4 e entrada-video.json.
+A imagem entrada-capa.jpg é um fotograma de pré-visualização do mesmo vídeo.
