@@ -1,0 +1,997 @@
+{
+  "meta": {
+    "title": "Entre o corpo e o digital",
+    "author": "Rita Eliana Pacheco Martins",
+    "updated": "2026-11-25",
+    "coverageNote": "Arquivo ampliado em 25 de novembro de 2026 com os documentos de artefacto para o retiro, os materiais de Animação Digital, Pingas em diálogo, referências de pesquisa e o esboço da 2.ª Atividade Formativa de Estudo de Estado da Arte. As datas de registo retrospetivo estão identificadas nas notas. Os estados distinguem propostas, estudos realizados e obras publicadas. As referências são pontos de estudo; a sua presença não implica leitura integral ou teste pessoal concluído.",
+    "revision": "2026-11-25-percurso-01",
+    "schemaVersion": 2
+  },
+  "journal": [
+    {
+      "id": "eea-atividade-formativa-2",
+      "date": "2026-11-25",
+      "category": "Formação",
+      "title": "Revisão de literatura e Estado da Arte: esboço da 2.ª atividade",
+      "summary": "O texto que estou a preparar sobre as distinções metodológicas e a pertinência do Estado da Arte para a média-arte digital.",
+      "tags": [
+        "DMAD",
+        "Estado da Arte",
+        "revisão de literatura",
+        "atividade formativa",
+        "PRISMA"
+      ],
+      "body": [
+        "Esboço da resposta que estou a preparar para a 2.ª Atividade Formativa de Estudo de Estado da Arte. Reúno aqui o texto de trabalho para continuar a rever a distinção metodológica e a sua pertinência para o DMAD.",
+        "A revisão de literatura e o Estudo de Estado da Arte (EEA) são fundamentais para a construção do conhecimento científico. Embora frequentemente utilizados como conceitos equivalentes, importa distinguir as suas finalidades, abordagens metodológicas e contributos para a investigação.",
+        "Revisão bibliográfica ou revisão de literatura",
+        "A revisão de literatura consiste na identificação, análise e síntese crítica do conhecimento publicado sobre determinado tema. Permite compreender fundamentos teóricos, contextualizar problemas de investigação, comparar metodologias e reconhecer contributos científicos relevantes.",
+        "Minussi et al. (2018) distinguem o levantamento bibliográfico, entendido como identificação inicial de fontes, da pesquisa bibliográfica enquanto processo de investigação. Esta distinção evidencia que reunir publicações não equivale a produzir conhecimento através da sua análise crítica.",
+        "Existem diferentes modalidades de revisão:",
+        "•  Revisão narrativa ou não sistemática: abordagem flexível, adequada à discussão de conceitos, teorias e perspetivas, embora mais suscetível a enviesamentos na seleção das fontes.\n•  Revisão sistemática da literatura (SLR): segue um protocolo explícito, incluindo perguntas de investigação, estratégias de pesquisa, critérios de inclusão e exclusão, seleção dos estudos (screening), extração de dados e síntese dos resultados.\n•  Revisões de âmbito (scoping reviews) e mapeamentos sistemáticos: permitem identificar tendências, conceitos, distribuição da investigação e lacunas numa determinada área.",
+        "Segundo García-Peñalvo (2022), as revisões sistemáticas contribuem para construir estados da questão robustos, através de procedimentos transparentes e reprodutíveis. Neste contexto, o PRISMA 2020 (Page et al., 2021) constitui um conjunto de orientações para documentar e comunicar revisões sistemáticas, não sendo, por si só, uma metodologia de investigação.",
+        "Estudo de Estado da Arte",
+        "O EEA procura compreender a situação atual do conhecimento numa área, identificando avanços recentes, abordagens emergentes, limitações e questões ainda por investigar.",
+        "Enquanto uma revisão de literatura pode abranger a evolução histórica e os fundamentos teóricos de um tema, o EEA privilegia a análise crítica das fronteiras atuais do conhecimento e das oportunidades para novos contributos científicos.",
+        "Contudo, esta distinção não é absoluta: um Estado da Arte pode ser desenvolvido através de uma revisão sistemática, narrativa ou de uma combinação de abordagens, dependendo dos objetivos e das perguntas de investigação.",
+        "Pertinência do EEA para o DMAD",
+        "Considero o EEA especialmente adequado ao Doutoramento em Média-Arte Digital devido à natureza interdisciplinar e experimental desta área, que cruza investigação científica, criação artística, tecnologia e experiência humana.",
+        "Na minha investigação sobre avatares históricos inteligentes, modelos de linguagem (LLMs) e experiências imersivas, não basta identificar tecnologias existentes. É necessário compreender as suas possibilidades expressivas, limitações técnicas, implicações éticas e metodologias de avaliação.",
+        "Um EEA permite relacionar publicações científicas recentes com obras artísticas, instalações interativas e protótipos tecnológicos, analisando criticamente os respetivos contributos.",
+        "Neste contexto, considero particularmente útil uma pesquisa estruturada, com critérios explícitos de seleção e extração de dados, complementada por uma análise crítica das dimensões artísticas e da experiência dos participantes.",
+        "Concluo que a principal pertinência do EEA para o DMAD reside na sua capacidade de transformar conhecimento existente em novas questões de investigação, fundamentando a experimentação artística e a criação de artefactos digitais originais.",
+        "Referências bibliográficas (APA 7)",
+        "García-Peñalvo, F. J. (2022). Desarrollo de estados de la cuestión robustos: Revisiones sistemáticas de literatura. Education in the Knowledge Society, 23, e28600. https://doi.org/10.14201/eks.28600",
+        "Minussi, S. G., Moura, A. A., Jardim, M. L. G., & Ravasio, M. H. (2018). Considerações sobre estado da arte, levantamento bibliográfico e pesquisa bibliográfica: Relações e limites. Revista Gestão Universitária, 9(2). http://www.gestaouniversitaria.com.br/artigos-cientificos/consideracoes-sobre-estado-da-arte-levantamento-bibliografico-e-pesquisa-bibliografica-relacoes-e-limites",
+        "Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., … Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ, 372, n71. https://doi.org/10.1136/bmj.n71"
+      ],
+      "headings": [
+        "Revisão bibliográfica ou revisão de literatura",
+        "Estudo de Estado da Arte",
+        "Pertinência do EEA para o DMAD",
+        "Referências bibliográficas (APA 7)"
+      ],
+      "status": "Esboço em revisão",
+      "editorialNote": "Esboço fornecido pela autora, organizado no arquivo em 25/11/2026. O texto e a bibliografia permanecem em revisão; este registo não indica entrega ou aprovação da atividade.",
+      "sources": [
+        {
+          "label": "Texto de trabalho da 2.ª Atividade Formativa · fornecido pela autora"
+        },
+        {
+          "label": "García-Peñalvo · fonte editorial",
+          "url": "https://doi.org/10.14201/eks.28600"
+        },
+        {
+          "label": "PRISMA 2020 · orientações oficiais",
+          "url": "https://www.prisma-statement.org/prisma-2020-statement"
+        }
+      ]
+    },
+    {
+      "id": "artefacto-faces-de-pessoa",
+      "date": "2026-11-25",
+      "title": "As Faces de Pessoa: uma possibilidade de artefacto",
+      "category": "Exploração",
+      "tags": [
+        "DMAD",
+        "retiro doutoral",
+        "Fernando Pessoa",
+        "heterónimos",
+        "artefacto"
+      ],
+      "summary": "Uma proposta de encontro literário com Pessoa e os seus heterónimos, entre presença digital, identidade e recordação.",
+      "body": [
+        "As Faces de Pessoa é uma das possibilidades que estou a preparar para o artefacto do retiro doutoral. Imagino uma sala literária digital onde o visitante encontra Fernando Pessoa, Alberto Caeiro, Ricardo Reis e Álvaro de Campos.",
+        "Os encontros seriam breves e teriam fragmentos literários, falas preparadas e expressões distintas. Interessa-me aproximar a identidade de cada voz da presença do seu rosto e terminar o percurso com a imagem que ficou na memória do visitante.",
+        "Os rostos dos heterónimos seriam interpretações artísticas assumidas pela obra. Esta escolha faz parte da relação entre invenção literária, identidade e representação.",
+        "A proposta de 25 de novembro está aberta a discussão. O próximo passo é delimitar um primeiro encontro, os conteúdos e a forma de participação do visitante."
+      ],
+      "status": "Proposta para discussão",
+      "dateNote": "Data explícita da proposta.",
+      "sources": [
+        {
+          "label": "As Faces de Pessoa · documento pessoal"
+        }
+      ],
+      "editorialNote": "Data explícita da proposta."
+    },
+    {
+      "id": "artefacto-encontros-renascimento",
+      "date": "2026-11-25",
+      "title": "Encontros no Renascimento: entrar noutro tempo",
+      "category": "Exploração",
+      "tags": [
+        "DMAD",
+        "retiro doutoral",
+        "imersão",
+        "Renascimento",
+        "3D",
+        "AR",
+        "VR"
+      ],
+      "summary": "Uma segunda ideia para o artefacto: explorar uma sala de palácio digital e encontrar guias históricos fictícios.",
+      "body": [
+        "Encontros no Renascimento é outra possibilidade para o artefacto. Imagino um palácio digital, uma representação corporal com vestuário de época e um percurso breve com dois guias históricos fictícios.",
+        "A primeira versão proposta seria uma sala 3D explorável no computador ou no telemóvel. A realidade aumentada surge como uma camada artística possível; a realidade virtual com óculos ficaria para uma evolução posterior.",
+        "Quero trabalhar a relação entre entrar num espaço, encontrar uma personagem e guardar a sua imagem. O desfecho aproximaria o retrato do encontro daquilo que o visitante recorda.",
+        "Nesta fase, estou a definir o conceito, a sala inicial e o percurso narrativo. Registo esta alternativa a par de As Faces de Pessoa, antes de escolher o caminho a desenvolver."
+      ],
+      "status": "Proposta de artefacto",
+      "dateNote": "Registo retrospetivo de 25/11/2026; o documento não tem data autoral fiável.",
+      "sources": [
+        {
+          "label": "Encontros no Renascimento · documento pessoal"
+        }
+      ],
+      "editorialNote": "Registo retrospetivo de 25/11/2026; o documento não tem data autoral fiável."
+    },
+    {
+      "id": "artefacto-rosto-que-fica",
+      "date": "2026-11-25",
+      "title": "O rosto que fica: pensar uma instalação",
+      "category": "Reflexão",
+      "tags": [
+        "DMAD",
+        "instalação",
+        "presença",
+        "memória",
+        "avatares"
+      ],
+      "summary": "Uma proposta de instalação em que a imagem final da obra nasce da recordação de um encontro.",
+      "body": [
+        "O rosto que fica é uma proposta de instalação sobre a imagem que guardamos de alguém depois de uma conversa. A montagem prevista aproxima uma peça cultural, um ecrã tátil e uma projeção final.",
+        "O visitante encontraria guias digitais, observaria um pormenor da peça e, no fim, veria a imagem que recordou ao lado do retrato do encontro. A sua escolha participaria na composição final.",
+        "O documento reúne a intenção artística e a preparação de conteúdos, equipamentos e ensaios. A imagem incluída na proposta é uma ilustração conceptual criada com IA.",
+        "Esta possibilidade aproxima objeto cultural, presença digital e recordação. A forma final da instalação permanece em estudo."
+      ],
+      "status": "Conceito de instalação",
+      "dateNote": "Registo retrospetivo de 25/11/2026; sem data autoral confirmada.",
+      "sources": [
+        {
+          "label": "O rosto que fica · documento pessoal"
+        }
+      ],
+      "editorialNote": "Registo retrospetivo de 25/11/2026; sem data autoral confirmada."
+    },
+    {
+      "id": "dmad-animacao-coluna",
+      "date": "2026-11-25",
+      "title": "Da coluna animada ao contexto arquitetónico",
+      "category": "Criação",
+      "tags": [
+        "DMAD",
+        "Animação Digital",
+        "Blender",
+        "coluna",
+        "património"
+      ],
+      "summary": "Um registo do exercício de animação da coluna e dos estudos visuais que a aproximam de um espaço patrimonial mediado por um guia.",
+      "body": [
+        "Reúno o projeto Blender da coluna e a respetiva pré-visualização: uma sequência de 60 fotogramas, a 15 fotogramas por segundo, com quatro segundos de duração.",
+        "As capturas de 23 de novembro aproximam o objeto de um contexto arquitetónico: colunatas, um guia de inspiração clássica e a anotação de um pormenor do fuste.",
+        "Este percurso liga a animação do objeto ao interesse por apresentar património através de um espaço e de uma presença digital. O templo explorável no site prolonga essa passagem do fragmento para a arquitetura.",
+        "Na galeria, deixo a pré-visualização da coluna como registo do exercício de Animação Digital e o templo como estudo 3D que pode ser explorado."
+      ],
+      "status": "Trabalho existente · registo retrospetivo",
+      "dateNote": "Registo retrospetivo; capturas com data nominal de 23/11/2026, vídeo sem data embebida.",
+      "sources": [
+        {
+          "label": "Animação 3D da coluna · documento pessoal"
+        },
+        {
+          "label": "Pré-visualização da animação 3D da coluna · documento pessoal"
+        },
+        {
+          "label": "Referência visual de colunata e guia · documento pessoal"
+        },
+        {
+          "label": "Pormenor do fuste com anotação · documento pessoal"
+        },
+        {
+          "label": "Referência visual do guia junto à coluna · documento pessoal"
+        }
+      ],
+      "editorialNote": "Registo retrospetivo; capturas com data nominal de 23/11/2026, vídeo sem data embebida."
+    },
+    {
+      "id": "pingas-corpo-encontro",
+      "date": "2026-11-25",
+      "category": "Criação",
+      "title": "Pingas em diálogo: o corpo de um encontro",
+      "summary": "O trabalho desenvolvido para o Professor Pedro: gesto, resposta generativa e memória numa pintura que ganha volume.",
+      "tags": [
+        "DMAD",
+        "AF3",
+        "Imagens que lembram",
+        "p5.js",
+        "arte generativa"
+      ],
+      "body": [
+        "Em Pingas em diálogo — Corpo de um encontro, o gesto de quem pinta recebe uma resposta generativa. Desenvolvi este trabalho para o Professor Pedro, no contexto da atividade Imagens que lembram.",
+        "A pintura organiza duas vozes no mesmo espaço: a pessoa escolhe uma paleta quente e o sistema responde com uma paleta fria. As pinceladas ganham volume, enquanto pequenos ecos prolongam a memória do gesto.",
+        "A memória pertence à sessão e é também matéria visual: um bitmap de um ensaio anterior influencia discretamente as novas marcas. A obra permite guardar uma imagem da composição ou exportar o seu volume em OBJ.",
+        "Interessa-me esta passagem entre regra, participação e autoria. A resposta da máquina parte de um sistema generativo em p5.js; esta experiência ajuda-me a pensar a relação com um futuro avatar conversacional."
+      ],
+      "status": "Obra interativa publicada · registo retrospetivo",
+      "editorialNote": "Registo de 25/11/2026 a partir da obra e da documentação publicadas. O enquadramento no trabalho para o Professor Pedro foi indicado pela autora.",
+      "sources": [
+        {
+          "label": "Obra interativa",
+          "url": "https://ritelian.github.io/pingas-em-dialogo/#obra"
+        },
+        {
+          "label": "Sobre a obra e o processo",
+          "url": "https://ritelian.github.io/pingas-em-dialogo/#sobre"
+        }
+      ]
+    },
+    {
+      "id": "griffin-presenca-escuta",
+      "date": "2026-11-25",
+      "category": "Investigação",
+      "title": "Griffin: presença também é escuta e tempo",
+      "summary": "Uma referência para pensar o olhar, as interrupções e a coordenação de uma conversa, para além do realismo do rosto.",
+      "tags": [
+        "Tavus",
+        "Griffin",
+        "full-duplex",
+        "avatares conversacionais",
+        "avaliação"
+      ],
+      "body": [
+        "Guardei a apresentação do Griffin, da Tavus, como referência para a investigação de avatares históricos inteligentes. O vídeo de lançamento chama a atenção para a naturalidade de uma videochamada.",
+        "A Tavus apresenta o Griffin como um modelo audiovisual full-duplex, que aproxima perceção, decisão conversacional, voz e vídeo. Para o meu percurso, a questão é perceber como o olhar, a escuta e o momento de responder contribuem para a presença.",
+        "A afirmação de ter passado um teste de Turing em vídeo pertence ao anúncio do produtor e ao protocolo ali descrito. Registo-a como uma alegação a analisar, juntamente com as condições da demonstração.",
+        "O VideoFDB oferece outra entrada para estudar comportamento não verbal e coordenação conversacional. Quero distinguir qualidade visual, resposta ao interlocutor e critérios de avaliação antes de comparar estas abordagens com a reconstrução de um avatar 3D."
+      ],
+      "status": "Referências em exploração · sem teste pessoal registado",
+      "editorialNote": "Nota de pesquisa organizada em 25/11/2026. O vídeo da Launchscene é uma apresentação de produto; a sua análise automática não é uma avaliação científica independente.",
+      "sources": [
+        {
+          "label": "Apresentação recebida · a partir de 1:35",
+          "url": "https://launchscene.app/v/tavus-tavus-introducing-griffin-the-first-model-to-pass-the-?t=95.0"
+        },
+        {
+          "label": "Anúncio e metodologia da Tavus",
+          "url": "https://www.tavus.io/griffin"
+        },
+        {
+          "label": "VideoFDB · projeto oficial",
+          "url": "https://research.nvidia.com/labs/amri/projects/video-fdb/"
+        }
+      ]
+    },
+    {
+      "id": "simulon-personagens-real",
+      "date": "2026-11-25",
+      "category": "Investigação",
+      "title": "Simulon: uma personagem dentro de uma cena real",
+      "summary": "Uma descoberta no Instagram aproxima criação de personagens, composição em AR e geração de imagem e vídeo.",
+      "tags": [
+        "Simulon",
+        "AR",
+        "personagens digitais",
+        "referências visuais"
+      ],
+      "body": [
+        "A publicação de Evolving AI que guardei apresenta uma demonstração do Simulon com personagens digitais colocadas numa cena real. É uma referência visual para pensar como a personagem participa num espaço e se relaciona com quem está a filmar.",
+        "No fluxo descrito pelo produto, criam-se ativos neurais a partir de palavras, fotografias ou desenhos, colocam-se no ambiente com AR e prepara-se a geração de imagem ou vídeo na cloud.",
+        "Para a minha investigação, importa distinguir a captura e a geração posterior de uma cena da interação conversacional em direto. São possibilidades expressivas diferentes, com necessidades técnicas e formas de avaliação próprias.",
+        "Fica como ferramenta a explorar e como ponto de partida para procurar documentação técnica e exemplos que possam dialogar com os artefactos do retiro."
+      ],
+      "status": "Referência visual e de produto · exploração",
+      "editorialNote": "Publicação consultada e tema identificado; utilização pessoal da aplicação ainda por documentar.",
+      "sources": [
+        {
+          "label": "Referência recebida · Evolving AI",
+          "url": "https://www.instagram.com/p/DfPW8fmgCnt/?img_index=3"
+        },
+        {
+          "label": "Fluxo oficial do Simulon",
+          "url": "https://simulon.com/"
+        }
+      ]
+    },
+    {
+      "id": "diario-retrato-movimento",
+      "date": "2026-11-25",
+      "category": "Criação",
+      "title": "Dar movimento ao arquivo",
+      "summary": "Do vídeo de entrada ao templo explorável e ao retrato luminoso: construir um lugar para o processo de investigação.",
+      "tags": [
+        "diário de bordo",
+        "web",
+        "3D",
+        "Fernando Pessoa",
+        "parallax"
+      ],
+      "body": [
+        "Estou a construir este arquivo para aproximar investigação e prática artística. A entrada combina um excerto de vídeo com uma transição sobre preto; em seguida, o templo passa a ser um objeto explorável.",
+        "Na secção Anatomia de um avatar, desenvolvi com assistência de IA um retrato luminoso inspirado em Fernando Pessoa. A malha e os pontos usam os tons de marfim e sálvia do site.",
+        "O estudo ganhou pequenas viragens da cabeça e movimento do olhar a partir da profundidade estimada da imagem. O cursor e as teclas de direção permitem orientar a composição.",
+        "Este ensaio torna concreta uma distinção importante no meu percurso: animar a presença de um retrato e reconstruir uma cabeça tridimensional são etapas diferentes. O arquivo também serve para documentar essa aprendizagem."
+      ],
+      "status": "Estudo visual publicado",
+      "editorialNote": "Conceção e decisões visuais: Rita Martins. Criação e implementação com assistência de IA: OpenAI / Codex.",
+      "sources": [
+        {
+          "label": "Processo de criação deste website · registo pessoal"
+        }
+      ]
+    },
+    {
+      "id": "visual-memoria",
+      "date": "2026-11-19",
+      "title": "O que fica de um avatar na memória?",
+      "category": "Reflexão",
+      "tags": [
+        "perceção",
+        "memória",
+        "métricas",
+        "artigo"
+      ],
+      "summary": "Do realismo visual à recordação: delimitar a pergunta para o artigo e perceber o que as métricas permitem afirmar.",
+      "body": [
+        "No brainstorming para o artigo, coloquei a hipótese de uma pessoa interagir com avatares diferentes e, horas ou dias depois, recordar um deles. Quero perceber que papel poderão ter os olhos, a textura da pele, as expressões e o movimento nessa recordação.",
+        "Clarifiquei que o meu interesse é lembrar-se do avatar e dos seus detalhes, e não apenas reconhecer uma identidade quando volta a ser apresentada. A recordação do avatar também deve ser distinguida da recordação do conteúdo de uma conversa.",
+        "Foi discutida uma aproximação entre a avaliação técnica de criação e renderização e a investigação sobre perceção e memória. PSNR, SSIM, LPIPS, fidelidade de identidade e desempenho podem descrever aspetos do resultado técnico, mas não constituem, por si, medidas de memória humana.",
+        "O recorte do artigo e a pergunta de investigação continuam em desenvolvimento. Esta entrada reúne questões e critérios discutidos; não apresenta resultados experimentais."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://chatgpt.com/c/6aff191b-bc3c-83ed-9606-d02b8007cb4d"
+        }
+      ],
+      "status": "Síntese retrospetiva · por rever"
+    },
+    {
+      "id": "estudo-computacional",
+      "date": "2026-11-19",
+      "title": "Explorar a memorabilidade prevista",
+      "category": "Investigação",
+      "tags": [
+        "memorabilidade",
+        "rostos sintéticos",
+        "reflexos corneanos",
+        "proposta"
+      ],
+      "summary": "Uma proposta de estudo computacional com rostos sintéticos para relacionar pistas visuais e previsões de memorabilidade.",
+      "body": [
+        "Explorei uma possibilidade de estudo computacional com rostos sintéticos, centrada na forma como um modelo de previsão de memorabilidade responde a alterações de uma característica visual.",
+        "A proposta é preparar variantes controladas das mesmas imagens, alterando os reflexos nos olhos, e observar a resposta de um modelo já treinado. As variantes deverão conservar a restante imagem, para permitir uma comparação interpretável.",
+        "Nesta proposta, seria necessário verificar o que acontece à pista visual após o redimensionamento e o recorte usados pelo modelo, e documentar as alterações de imagem. Uma variação da previsão do modelo não demonstraria uma mudança na memória humana.",
+        "O desenho experimental continua a ser uma proposta de trabalho. A preparação das imagens, a seleção do modelo e a extração de previsões são etapas por realizar e documentar."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://chatgpt.com/c/6aff22d0-d0b0-83eb-9807-db354090d703"
+        }
+      ],
+      "status": "Proposta de experiência · por validar"
+    },
+    {
+      "id": "pessoa-no-mac",
+      "date": "2026-11-19",
+      "title": "Fernando Pessoa: da imagem ao 3D",
+      "category": "Exploração",
+      "tags": [
+        "Fernando Pessoa",
+        "Mac M4",
+        "imagem para 3D",
+        "LAM",
+        "PlayCanvas"
+      ],
+      "summary": "Procurar uma alternativa de geração automática a partir de imagens que possa integrar um fluxo de trabalho no Mac.",
+      "body": [
+        "Considerei criar um avatar patrimonial de Camões ou Fernando Pessoa a partir das imagens disponíveis e escolhi explorar Fernando Pessoa, para quem tenho mais referências fotográficas.",
+        "O processo que procuro parte de uma imagem e produz automaticamente um resultado 3D, à semelhança da abordagem de criação discutida a partir do CAP4D. Quero explorar esse percurso aplicado a Fernando Pessoa.",
+        "Foram discutidas ferramentas de geração de modelos, incluindo Stable Fast 3D e a aplicação 3D Mate, e o LAM como possível caminho para uma cabeça animável. PlayCanvas e SuperSplat foram considerados para visualização e apresentação. A execução e a compatibilidade no meu equipamento continuam por testar.",
+        "A distinção que fica para a próxima experiência é entre gerar um objeto com geometria e textura e gerar uma cabeça preparada para expressões faciais. Não há, nos registos consultados, um modelo de Pessoa já produzido ou uma ferramenta escolhida e validada."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://chatgpt.com/c/6aff2ef1-0bec-83ed-8f8f-0e94f661b423"
+        }
+      ],
+      "status": "Exploração de ferramentas · teste pendente"
+    },
+    {
+      "id": "ponto-de-partida",
+      "date": "2026-11-08",
+      "title": "Dar presença a uma imagem",
+      "category": "Investigação",
+      "tags": [
+        "autoria",
+        "património",
+        "avatares",
+        "IA"
+      ],
+      "summary": "O início do diário: aproximar arte, educação e inteligência artificial através da criação de avatares patrimoniais.",
+      "body": [
+        "Inicio este diário para acompanhar a aproximação entre os meus interesses na arte, na educação e na inteligência artificial e o estudo da criação de avatares patrimoniais. O título de trabalho da proposta dá-me um ponto de partida, mas o contributo artístico a desenvolver em PMAD ainda precisa de ser delimitado.",
+        "Quero compreender como se passa de um retrato a um avatar tridimensional animável. O CAP4D surge como referência inicial nas conversas de orientação, e o Brush como uma ferramenta a conhecer. O primeiro desafio é perceber o papel de cada um e distinguir criação, animação, renderização e comportamento conversacional.",
+        "Interessa-me dar movimento e presença a uma imagem e explorar uma relação entre o avatar e o público. Que escolhas consigo controlar? O que propõe o sistema? O que muda quando alguém interage com o resultado? Estas são questões de exploração, ainda não uma pergunta de investigação aprovada."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://app.notion.com/p/41297a90c81b8106b387d1e9df88d19a"
+        }
+      ],
+      "status": "Entrada de preparação"
+    },
+    {
+      "id": "biblioteca-de-estudo",
+      "date": "2026-11-08",
+      "title": "Organizar o mapa de leituras",
+      "category": "Investigação",
+      "tags": [
+        "CAP4D",
+        "Gaussian Splatting",
+        "Brush",
+        "estado da arte"
+      ],
+      "summary": "Uma biblioteca inicial para distinguir o que cria o avatar, o que o anima e o que o apresenta.",
+      "body": [
+        "Foi organizada uma biblioteca de estudo sobre avatares, autoria e criação. O percurso começa pelo CAP4D, pelos fundamentos de 3D Gaussian Splatting e pela exploração do Brush; inclui ainda alternativas para comparar, como SOAP e AvatarArtist.",
+        "A ficha de leitura deverá registar o problema, os dados de entrada, a representação produzida, os controlos, a avaliação, as limitações e os requisitos. Na comparação, importa separar o tempo de preparação do avatar do custo da animação e da renderização.",
+        "Reunir e organizar referências é preparação para o estudo. Não significa que já tenha lido integralmente os artigos ou testado os métodos. A próxima etapa é preencher fichas com o que efetivamente aprendi e documentar as condições de cada experiência."
+      ],
+      "sources": [
+        {
+          "label": "Registo pessoal (acesso privado)",
+          "url": "https://app.notion.com/p/41297a90c81b818b8227c48d02c36a6e"
+        }
+      ],
+      "status": "Biblioteca organizada · leituras por registar"
+    }
+  ],
+  "papers": [
+    {
+      "id": "cap4d",
+      "shortTitle": "CAP4D",
+      "title": "CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models",
+      "authors": "Felix Taubner, Ruihang Zhang, Mathieu Tuli, David B. Lindell",
+      "year": 2025,
+      "venue": "CVPR 2025",
+      "status": "Referência",
+      "tags": [
+        "Difusão multi-view",
+        "Avatares 4D",
+        "3D Gaussian Splatting"
+      ],
+      "summary": "Cria avatares de retrato animáveis a partir de uma ou várias imagens. Primeiro gera vistas e expressões com um modelo de difusão; depois ajusta uma representação de Gaussianas 3D controlada por um modelo facial.",
+      "question": "Como varia a identidade e a consistência entre vistas quando muda o número de imagens de referência?",
+      "projectUrl": "https://felixtaubner.github.io/cap4d/",
+      "paperUrl": "https://arxiv.org/abs/2412.12093",
+      "codeUrl": "https://github.com/felixtaubner/cap4d/"
+    },
+    {
+      "id": "lam",
+      "shortTitle": "LAM",
+      "title": "LAM: Large Avatar Model for One-shot Animatable Gaussian Head",
+      "authors": "Yisheng He et al.",
+      "year": 2025,
+      "venue": "SIGGRAPH 2025",
+      "status": "Referência",
+      "tags": [
+        "Avatares",
+        "Imagem única",
+        "3D Gaussian Splatting"
+      ],
+      "summary": "Reconstrói uma cabeça animável com Gaussianas 3D a partir de uma imagem numa passagem de inferência. Usa uma representação canónica e skinning para controlar a animação, com demonstrações em navegador e dispositivos móveis.",
+      "question": "Como se compara a reconstrução numa passagem com o ajuste por sujeito usado noutras abordagens?",
+      "projectUrl": "https://aigc3d.github.io/projects/LAM/",
+      "paperUrl": "https://arxiv.org/abs/2502.17796",
+      "codeUrl": "https://github.com/aigc3d/LAM",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados na página oficial; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "soap",
+      "shortTitle": "SOAP",
+      "title": "SOAP: Style-Omniscient Animatable Portraits",
+      "authors": "Tingting Liao et al.",
+      "year": 2025,
+      "venue": "SIGGRAPH 2025",
+      "status": "Referência",
+      "tags": [
+        "Avatares estilizados",
+        "Malha",
+        "Difusão multi-view"
+      ],
+      "summary": "Produz avatares de cabeça com malha, textura e rig a partir de um retrato, incluindo estilos não realistas. Combina difusão multi-view com um processo de ajuste e rigging baseado em FLAME.",
+      "question": "Como manter a topologia, o controlo de expressão e a consistência entre vistas em rostos estilizados?",
+      "projectUrl": "https://tingtingliao.github.io/soap/",
+      "paperUrl": "https://arxiv.org/abs/2505.05022",
+      "codeUrl": "https://github.com/TingtingLiao/soap",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados na página oficial e no paper; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "avatarartist",
+      "shortTitle": "AvatarArtist",
+      "title": "AvatarArtist: Open-Domain 4D Avatarization",
+      "authors": "Hongyu Liu et al.",
+      "year": 2025,
+      "venue": "CVPR 2025",
+      "status": "Referência",
+      "tags": [
+        "Avatares 4D",
+        "Triplanes",
+        "Avatares estilizados"
+      ],
+      "summary": "Cria uma representação de avatar 4D a partir de um retrato em diferentes estilos. Combina triplanes paramétricos, modelos generativos e um renderer condicionado pelo movimento e pela imagem de referência.",
+      "question": "Como preservar a aparência de um retrato estilizado ao mudar expressão, pose e ponto de vista?",
+      "projectUrl": "https://kumapowerliu.github.io/AvatarArtist/",
+      "paperUrl": "https://arxiv.org/abs/2503.19906",
+      "codeUrl": "https://github.com/ant-research/AvatarArtist",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados na página oficial e no paper; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "gaussianavatars",
+      "shortTitle": "GaussianAvatars",
+      "title": "GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians",
+      "authors": "Shenhan Qian et al.",
+      "year": 2024,
+      "venue": "CVPR 2024",
+      "status": "Referência",
+      "tags": [
+        "Avatares",
+        "Rigging",
+        "3D Gaussian Splatting"
+      ],
+      "summary": "Liga Gaussianas 3D a uma malha facial paramétrica para controlar a expressão, a pose e o ponto de vista. É uma base de reconstrução usada pelo CAP4D.",
+      "question": "Como preservar detalhe visual ao deformar a malha facial?",
+      "projectUrl": "https://shenhanqian.github.io/gaussian-avatars",
+      "paperUrl": "https://arxiv.org/abs/2312.02069",
+      "codeUrl": "https://github.com/ShenhanQian/GaussianAvatars"
+    },
+    {
+      "id": "stable-fast-3d",
+      "shortTitle": "Stable Fast 3D",
+      "title": "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
+      "authors": "Mark Boss, Zixuan Huang, Aaryaman Vasishta, Varun Jampani",
+      "year": 2024,
+      "venue": "arXiv 2024 · CVPR 2025",
+      "status": "Referência",
+      "tags": [
+        "Imagem para 3D",
+        "Malha",
+        "Texturas UV"
+      ],
+      "summary": "Reconstrói uma malha 3D texturada de um objeto a partir de uma imagem. Inclui abertura UV, previsão de materiais e redução de iluminação incorporada na cor, para facilitar a utilização noutras condições de luz.",
+      "question": "Que qualidade geométrica e de textura se obtém ao exportar os objetos para GLB e voltar a iluminá-los?",
+      "projectUrl": "https://stable-fast-3d.github.io/",
+      "paperUrl": "https://arxiv.org/abs/2408.00653",
+      "codeUrl": "https://github.com/Stability-AI/stable-fast-3d",
+      "sourceNote": "Tema identificado na biblioteca e nas conversas de investigação. Metadados e resumo verificados no projeto oficial e no paper; leitura integral e testes pela autora por confirmar."
+    },
+    {
+      "id": "3dgs",
+      "shortTitle": "3D Gaussian Splatting",
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "authors": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis",
+      "year": 2023,
+      "venue": "SIGGRAPH 2023",
+      "status": "Referência",
+      "tags": [
+        "Representação 3D",
+        "Rendering",
+        "Gaussianas"
+      ],
+      "summary": "Representa cenas com Gaussianas 3D e usa um processo de projeção eficiente para sintetizar novas vistas. É uma referência fundamental para compreender a representação visual de vários avatares recentes.",
+      "question": "Que compromissos existem entre detalhe, quantidade de Gaussianas e velocidade?",
+      "projectUrl": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "paperUrl": "https://arxiv.org/abs/2308.04079",
+      "codeUrl": "https://github.com/graphdeco-inria/gaussian-splatting"
+    },
+    {
+      "id": "nerf",
+      "shortTitle": "NeRF",
+      "title": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+      "authors": "Ben Mildenhall et al.",
+      "year": 2020,
+      "venue": "ECCV 2020",
+      "status": "Referência",
+      "tags": [
+        "Neural rendering",
+        "Campos de radiância",
+        "Síntese de vistas"
+      ],
+      "summary": "Aprende uma função contínua de densidade e radiância a partir de imagens com poses de câmara conhecidas. É uma referência para estudar síntese de vistas e comparar representações implícitas com Gaussianas explícitas.",
+      "question": "Como se comparam o controlo, o custo e a edição em representações implícitas e explícitas?",
+      "projectUrl": "https://www.matthewtancik.com/nerf",
+      "paperUrl": "https://arxiv.org/abs/2003.08934",
+      "codeUrl": "https://github.com/bmild/nerf"
+    },
+    {
+      "id": "flame",
+      "shortTitle": "FLAME",
+      "title": "Learning a model of facial shape and expression from 4D scans",
+      "authors": "Tianye Li, Timo Bolkart, Michael J. Black, Hao Li, Javier Romero",
+      "year": 2017,
+      "venue": "SIGGRAPH Asia 2017",
+      "status": "Referência",
+      "tags": [
+        "Modelo paramétrico",
+        "Expressão",
+        "3DMM"
+      ],
+      "summary": "Modelo facial paramétrico que combina forma, expressão e articulação da cabeça, mandíbula e olhos. Permite descrever e controlar deformações faciais com um conjunto compacto de parâmetros.",
+      "question": "Que expressões e articulações podem ser controladas diretamente?",
+      "projectUrl": "https://flame.is.tue.mpg.de/",
+      "paperUrl": "https://flame.is.tue.mpg.de/",
+      "codeUrl": "https://github.com/TimoBolkart/FLAME_PyTorch"
+    },
+    {
+      "id": "tavus-griffin",
+      "kind": "tool",
+      "shortTitle": "Griffin · Tavus",
+      "title": "Griffin: The First Human Interaction Model",
+      "authors": "Tavus Research Team",
+      "year": 2026,
+      "venue": "Anúncio técnico do produtor",
+      "status": "Referência de produto · a explorar",
+      "tags": [
+        "Avatares conversacionais",
+        "Full-duplex",
+        "Avaliação"
+      ],
+      "summary": "A Tavus apresenta um sistema audiovisual full-duplex que aproxima perceção, decisão conversacional, voz e vídeo. A alegação de passar um teste de Turing em vídeo pertence ao anúncio e ao protocolo divulgado pelo produtor.",
+      "question": "Como avaliar escuta, olhar, interrupções e presença para além da qualidade visual do rosto?",
+      "url": "https://www.tavus.io/griffin",
+      "sources": [
+        {
+          "label": "Vídeo de lançamento · ligação recebida a 1:35",
+          "url": "https://launchscene.app/v/tavus-tavus-introducing-griffin-the-first-model-to-pass-the-?t=95.0"
+        }
+      ],
+      "sourceNote": "Anúncio e demonstração de produto. Consulta de fontes em 25/11/2026; sem teste pessoal registado. A análise da Launchscene está identificada como gerada por IA."
+    },
+    {
+      "id": "videofdb",
+      "kind": "paper",
+      "shortTitle": "VideoFDB",
+      "title": "VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents",
+      "authors": "Amrita Mazumdar et al.",
+      "year": 2026,
+      "venue": "arXiv preprint",
+      "status": "Referência · leitura por registar",
+      "tags": [
+        "Avatares conversacionais",
+        "Full-duplex",
+        "Avaliação"
+      ],
+      "summary": "Benchmark de perceção e geração de sinais não verbais em agentes conversacionais audiovisuais, incluindo olhar, pausas, interrupções e respostas de acompanhamento. Ajuda a separar a avaliação do comportamento da aparência visual.",
+      "question": "Que medidas permitem observar a coordenação temporal de uma conversa?",
+      "paperUrl": "https://arxiv.org/abs/2605.30256",
+      "projectUrl": "https://research.nvidia.com/labs/amri/projects/video-fdb/",
+      "sources": [
+        {
+          "label": "Leaderboard oficial · consultar a versão datada",
+          "url": "https://research.nvidia.com/labs/amri/projects/video-fdb/leaderboard.html"
+        }
+      ],
+      "sourceNote": "Referência identificada na pesquisa sobre Griffin. Leitura integral e testes pessoais ainda por documentar. A tabela comparativa e a experiência de identificação humana divulgada pela Tavus são avaliações distintas."
+    },
+    {
+      "id": "simulon",
+      "kind": "tool",
+      "shortTitle": "Simulon",
+      "title": "Simulon · Reality-Aware Rendering",
+      "authors": "Simulon",
+      "venue": "Produto e documentação oficial",
+      "status": "Ferramenta a explorar",
+      "tags": [
+        "AR",
+        "Criação 3D",
+        "Renderização",
+        "Personagens digitais"
+      ],
+      "summary": "O produto descreve a criação de ativos neurais, a sua colocação em ambientes com AR e a produção de imagem ou vídeo na cloud. É uma referência para explorar composição, espaço e personagens digitais.",
+      "question": "Como se distinguem composição em AR, geração posterior de vídeo e interação conversacional em direto?",
+      "url": "https://simulon.com/",
+      "sources": [
+        {
+          "label": "Ficha e histórico oficiais",
+          "url": "https://apps.apple.com/us/app/simulon/id6670765943"
+        }
+      ],
+      "sourceNote": "Consulta do produto e das fontes em 25/11/2026. A apresentação comercial é uma referência de exploração; utilização pessoal por documentar."
+    },
+    {
+      "id": "evolving-ai-simulon",
+      "kind": "inspiration",
+      "shortTitle": "Simulon · descoberta visual",
+      "title": "Uma personagem dentro da cena real",
+      "authors": "@evolving.ai",
+      "year": 2026,
+      "venue": "Instagram · curadoria de notícias",
+      "status": "Referência visual guardada",
+      "tags": [
+        "Referências visuais",
+        "Simulon",
+        "AR"
+      ],
+      "summary": "Publicação recebida com um excerto sobre personagens digitais e Reality-Aware Rendering. A descoberta levou à consulta do produto e à distinção entre captura, geração de vídeo e conversa em direto.",
+      "url": "https://www.instagram.com/p/DfPW8fmgCnt/?img_index=3",
+      "projectUrl": "https://simulon.com/",
+      "sourceNote": "Tema identificado no conteúdo visível da ligação fornecida. Trata-se de uma fonte de descoberta visual e de curadoria, com afirmações promocionais a confrontar com documentação técnica."
+    },
+    {
+      "id": "garcia-penalvo-2022",
+      "kind": "paper",
+      "shortTitle": "Estados da questão robustos",
+      "title": "Desarrollo de estados de la cuestión robustos: Revisiones Sistemáticas de Literatura",
+      "authors": "Francisco José García-Peñalvo",
+      "year": 2022,
+      "venue": "Education in the Knowledge Society · 23, e28600",
+      "status": "Referência do esboço de EEA",
+      "tags": [
+        "Estado da Arte",
+        "Metodologia",
+        "Revisão sistemática"
+      ],
+      "summary": "Apresenta enquadramentos e fases de planeamento, realização e relato de revisões sistemáticas, com atenção à transparência e à possibilidade de atualizar o conhecimento reunido.",
+      "question": "Como combinar uma pesquisa estruturada com a análise artística e da experiência do público?",
+      "paperUrl": "https://doi.org/10.14201/eks.28600",
+      "sourceNote": "Referência citada no esboço da 2.ª Atividade Formativa. Metadados verificados na fonte editorial."
+    },
+    {
+      "id": "minussi-2018",
+      "kind": "paper",
+      "shortTitle": "Estado da arte e pesquisa bibliográfica",
+      "title": "Considerações sobre estado da arte, levantamento bibliográfico e pesquisa bibliográfica: Relações e limites",
+      "authors": "S. G. Minussi, A. A. Moura, M. L. G. Jardim e M. H. Ravasio",
+      "year": 2018,
+      "venue": "Revista Gestão Universitária · referência fornecida no esboço",
+      "status": "Bibliografia do esboço · por rever",
+      "tags": [
+        "Estado da Arte",
+        "Metodologia",
+        "Pesquisa bibliográfica"
+      ],
+      "summary": "Referência mobilizada no texto de trabalho para discutir as relações entre levantamento de fontes, pesquisa bibliográfica e Estado da Arte.",
+      "paperUrl": "https://www.gestaouniversitaria.com.br/artigos-cientificos/consideracoes-sobre-estado-da-arte-levantamento-bibliografico-e-pesquisa-bibliografica-relacoes-e-limites",
+      "sourceNote": "Registo conforme a bibliografia fornecida pela autora. Os detalhes bibliográficos e a leitura da fonte original permanecem por rever."
+    },
+    {
+      "id": "prisma-2020",
+      "kind": "paper",
+      "shortTitle": "PRISMA 2020",
+      "title": "The PRISMA 2020 statement: An updated guideline for reporting systematic reviews",
+      "authors": "Matthew J. Page et al.",
+      "year": 2021,
+      "venue": "BMJ · 372, n71",
+      "status": "Referência metodológica",
+      "tags": [
+        "Estado da Arte",
+        "Metodologia",
+        "Revisão sistemática"
+      ],
+      "summary": "Orientações para comunicar revisões sistemáticas de forma transparente, com checklist e diagramas de fluxo. No esboço da atividade, o PRISMA é tratado como orientação de relato, articulada com o método de revisão escolhido.",
+      "paperUrl": "https://doi.org/10.1136/bmj.n71",
+      "projectUrl": "https://www.prisma-statement.org/prisma-2020-statement",
+      "sourceNote": "Referência citada no esboço da 2.ª Atividade Formativa. Metadados e natureza das orientações confirmados nas fontes oficiais."
+    }
+  ],
+  "techniques": [
+    {
+      "id": "parametric",
+      "name": "Modelos faciais paramétricos",
+      "label": "Forma e expressão",
+      "description": "Representam a geometria e os movimentos do rosto através de parâmetros. FLAME é uma referência nesta família.",
+      "related": [
+        "flame"
+      ],
+      "sourceUrl": "https://flame.is.tue.mpg.de/"
+    },
+    {
+      "id": "radiance",
+      "name": "Campos de radiância",
+      "label": "Neural rendering",
+      "description": "Aprendem a aparência de uma cena para produzir imagens de novos pontos de vista. NeRF é uma referência fundadora.",
+      "related": [
+        "nerf"
+      ],
+      "sourceUrl": "https://www.matthewtancik.com/nerf"
+    },
+    {
+      "id": "gaussian",
+      "name": "3D Gaussian Splatting",
+      "label": "Representação explícita",
+      "description": "Usa Gaussianas 3D para representar e projetar a aparência de uma cena. Em avatares, estas podem acompanhar a deformação de uma malha facial.",
+      "related": [
+        "3dgs",
+        "gaussianavatars"
+      ],
+      "sourceUrl": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/"
+    },
+    {
+      "id": "diffusion",
+      "name": "Difusão multi-view",
+      "label": "Geração condicionada",
+      "description": "Gera várias vistas coerentes a partir das referências. No CAP4D, o condicionamento inclui ponto de vista, pose e expressão.",
+      "related": [
+        "cap4d"
+      ],
+      "sourceUrl": "https://felixtaubner.github.io/cap4d/"
+    },
+    {
+      "id": "brush",
+      "name": "Brush",
+      "label": "Ferramenta de reconstrução e visualização",
+      "description": "Ferramenta para treinar e visualizar Gaussian splats. A visualização de animações, incluindo exportações CAP4D, é uma função distinta da criação e do controlo facial de um avatar completo.",
+      "related": [
+        "3dgs",
+        "cap4d"
+      ],
+      "sourceUrl": "https://github.com/ArthurBrussee/brush"
+    }
+  ],
+  "cap4dStages": [
+    {
+      "label": "Referências",
+      "description": "Uma ou várias imagens de entrada."
+    },
+    {
+      "label": "Tracking facial",
+      "description": "Estimativa de pose, expressão e parâmetros de um modelo facial."
+    },
+    {
+      "label": "Difusão multi-view",
+      "description": "Geração de novas vistas e expressões com o MMDM."
+    },
+    {
+      "label": "Reconstrução 4D",
+      "description": "Ajuste do avatar com Gaussianas 3D deformáveis."
+    },
+    {
+      "label": "Animação",
+      "description": "Controlo do avatar através do modelo facial e rendering em tempo real."
+    }
+  ],
+  "works": [
+    {
+      "id": "pingas",
+      "title": "Pingas em diálogo — Corpo de um encontro",
+      "type": "Arte generativa · p5.js",
+      "description": "Uma pintura a duas vozes: o gesto humano recebe uma resposta generativa e ganha volume. Trabalho desenvolvido para o Professor Pedro, no contexto de Imagens que lembram.",
+      "url": "https://ritelian.github.io/pingas-em-dialogo/#obra",
+      "year": "2026",
+      "visual": "image",
+      "status": "Obra interativa publicada",
+      "stage": "complete",
+      "poster": "assets/media/pingas-capa.jpg",
+      "body": [
+        "A pessoa escolhe uma paleta quente; o sistema responde com uma paleta fria. Pinceladas tridimensionais e pequenos ecos prolongam a memória da sessão.",
+        "A obra permite pintar, rodar a composição, guardar PNG e exportar o volume em OBJ. A memória da sessão e um bitmap de um ensaio anterior participam no processo."
+      ],
+      "previewNote": "Capa: composição produzida pelo modo de exemplo da própria obra, com dois participantes simulados.",
+      "credits": "Rita Martins · criação em p5.js.",
+      "sources": [
+        {
+          "label": "Obra e documentação",
+          "url": "https://ritelian.github.io/pingas-em-dialogo/#sobre"
+        },
+        {
+          "label": "Código",
+          "url": "https://github.com/ritelian/pingas-em-dialogo"
+        }
+      ]
+    },
+    {
+      "id": "animacao-coluna-dmad",
+      "title": "Coluna em movimento",
+      "type": "Animação 3D · Blender",
+      "description": "Exercício de animação de uma coluna clássica, apresentado numa sequência de 60 fotogramas. O projeto Blender e a pré-visualização acompanham o percurso de exploração do património em ambientes digitais.",
+      "status": "Trabalho existente",
+      "year": "2026",
+      "stage": "complete",
+      "video": "assets/media/animacao-digital.mp4",
+      "poster": "assets/media/animacao-digital-capa.jpg",
+      "body": [
+        "Pré-visualização do exercício de Animação Digital: uma coluna clássica texturada, numa sequência de quatro segundos.",
+        "O ficheiro Blender e o vídeo guardados pela autora documentam o estudo do objeto, que se prolonga no templo apresentado no site."
+      ],
+      "credits": "Rita Martins · exercício em Blender. Vídeo de pré-visualização do projeto.",
+      "sources": [
+        {
+          "label": "Animação 3D da coluna · documento pessoal"
+        },
+        {
+          "label": "Pré-visualização da animação 3D da coluna · documento pessoal"
+        }
+      ]
+    },
+    {
+      "id": "templo",
+      "title": "O templo",
+      "type": "Do Fragmento à Presença · Blender",
+      "description": "Ambiente virtual desenvolvido em Blender para Do Fragmento à Presença. A coluna do exercício de animação repete-se numa colunata com 24 elementos, pavimento em lajes e passagem em profundidade. A composição foi pensada para um percurso em primeira pessoa; aqui pode ser explorada como objeto 3D.",
+      "model": "assets/models/templo.gltf",
+      "poster": "assets/models/templo-capa.jpg",
+      "year": "2026",
+      "status": "Modelo 3D explorável",
+      "credits": "Conceção e montagem: Rita Martins. Criação e edição com assistência de IA: OpenAI / Codex.",
+      "stage": "development",
+      "body": [
+        "O templo prolonga o exercício de animação da coluna num ambiente arquitetónico. A versão web permite observar a composição, rodar, aproximar e alternar a sua representação.",
+        "Faz parte do percurso Do Fragmento à Presença, que aproxima objeto, espaço e presença digital."
+      ],
+      "sources": [
+        {
+          "label": "Projeto Blender da autora · Do Fragmento à Presença"
+        }
+      ]
+    },
+    {
+      "id": "faces-de-pessoa",
+      "title": "As Faces de Pessoa",
+      "type": "Avatar literário · Retiro doutoral",
+      "description": "Uma sala literária digital onde Pessoa e os seus heterónimos se tornam encontros breves com rostos e expressões distintas. O desfecho aproxima a imagem recordada da imagem do encontro. As aparências dos heterónimos são propostas de interpretação artística.",
+      "status": "Proposta para discussão",
+      "stage": "idea",
+      "year": "2026",
+      "sources": [
+        {
+          "label": "As Faces de Pessoa · documento pessoal"
+        }
+      ],
+      "body": [
+        "As Faces de Pessoa é uma das possibilidades que estou a preparar para o artefacto do retiro doutoral. Imagino uma sala literária digital onde o visitante encontra Fernando Pessoa, Alberto Caeiro, Ricardo Reis e Álvaro de Campos.",
+        "Os encontros seriam breves e teriam fragmentos literários, falas preparadas e expressões distintas. Interessa-me aproximar a identidade de cada voz da presença do seu rosto e terminar o percurso com a imagem que ficou na memória do visitante.",
+        "Os rostos dos heterónimos seriam interpretações artísticas assumidas pela obra. Esta escolha faz parte da relação entre invenção literária, identidade e representação.",
+        "A proposta de 25 de novembro está aberta a discussão. O próximo passo é delimitar um primeiro encontro, os conteúdos e a forma de participação do visitante."
+      ],
+      "visual": "literary",
+      "previewNote": "Proposta de artefacto em estudo para o retiro doutoral."
+    },
+    {
+      "id": "encontros-renascimento",
+      "title": "Encontros no Renascimento",
+      "type": "Experiência imersiva · Retiro doutoral",
+      "description": "Uma experiência narrativa numa sala de palácio digital, com vestuário de época e guias históricos fictícios. O primeiro formato proposto é uma aplicação 3D em ecrã; AR e VR são possibilidades de evolução.",
+      "status": "Proposta por desenvolver",
+      "stage": "idea",
+      "year": "2026",
+      "sources": [
+        {
+          "label": "Encontros no Renascimento · documento pessoal"
+        }
+      ],
+      "body": [
+        "Encontros no Renascimento é outra possibilidade para o artefacto. Imagino um palácio digital, uma representação corporal com vestuário de época e um percurso breve com dois guias históricos fictícios.",
+        "A primeira versão proposta seria uma sala 3D explorável no computador ou no telemóvel. A realidade aumentada surge como uma camada artística possível; a realidade virtual com óculos ficaria para uma evolução posterior.",
+        "Quero trabalhar a relação entre entrar num espaço, encontrar uma personagem e guardar a sua imagem. O desfecho aproximaria o retrato do encontro daquilo que o visitante recorda.",
+        "Nesta fase, estou a definir o conceito, a sala inicial e o percurso narrativo. Registo esta alternativa a par de As Faces de Pessoa, antes de escolher o caminho a desenvolver."
+      ],
+      "visual": "renaissance",
+      "previewNote": "Proposta de artefacto em estudo para o retiro doutoral."
+    },
+    {
+      "id": "o-rosto-que-fica",
+      "title": "O rosto que fica",
+      "type": "Instalação interativa · DMAD",
+      "description": "Uma instalação em que um encontro com guias digitais dá lugar a uma projeção dos rostos recordados. O documento reúne o conceito, a organização do percurso e uma ilustração conceptual com IA.",
+      "status": "Conceito de instalação",
+      "stage": "idea",
+      "year": "2026",
+      "sources": [
+        {
+          "label": "O rosto que fica · documento pessoal"
+        }
+      ],
+      "body": [
+        "O rosto que fica é uma proposta de instalação sobre a imagem que guardamos de alguém depois de uma conversa. A montagem prevista aproxima uma peça cultural, um ecrã tátil e uma projeção final.",
+        "O visitante encontraria guias digitais, observaria um pormenor da peça e, no fim, veria a imagem que recordou ao lado do retrato do encontro. A sua escolha participaria na composição final.",
+        "O documento reúne a intenção artística e a preparação de conteúdos, equipamentos e ensaios. A imagem incluída na proposta é uma ilustração conceptual criada com IA.",
+        "Esta possibilidade aproxima objeto cultural, presença digital e recordação. A forma final da instalação permanece em estudo."
+      ],
+      "visual": "memory",
+      "previewNote": "Conceito de instalação em estudo."
+    }
+  ]
+}
