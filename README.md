@@ -58,3 +58,6 @@ Os trabalhos apresentados são **Pingas em diálogo**, **Coluna em movimento** e
 A entrada da **2.ª Atividade Formativa de Estudo de Estado da Arte** conserva o texto de trabalho fornecido pela autora e as suas três referências bibliográficas. Está identificada como **Esboço em revisão**; não indica entrega ou aprovação da atividade.
 
 A proposta de artigo e os documentos da pasta **Paper** ficaram excluídos. Os documentos pessoais integrais não são distribuídos com o site. A presença de uma referência na biblioteca não indica leitura ou teste concluído.
+
+
+As Faces de Pessoa: o retrato luminoso também aparece animado na galeria e no detalhe da proposta. A animação inclui pestanejos locais, movimento da cabeça e do olhar, controlos de pausa e respeito pela preferência de movimento reduzido. Continua a ser um estudo visual com profundidade aproximada a partir de uma imagem.
