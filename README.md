@@ -7,7 +7,7 @@ Diário de bordo de Rita Martins sobre avatares 3D, autoria, perceção e práti
 
 ## Atualizar o site publicado
 
-O **`index.html`** reúne o design, os textos, as fontes e o funcionamento do site. A publicação inclui também o modelo do templo em **`assets/models/templo.gltf`** e o vídeo de entrada em **`assets/media/entrada-video.json`**. Ao exportares pelo editor, o vídeo e o modelo são incorporados no novo `index.html`, para facilitar as atualizações.
+O **`index.html`** reúne o design, os textos, as fontes e o funcionamento do site. A publicação inclui também o modelo do templo em **`assets/models/templo.gltf`**, o vídeo de entrada em **`assets/media/entrada-video.json`** e o retrato luminoso em **`assets/media/avatar-pessoa.json`**. Ao exportares pelo editor, o vídeo, o retrato e o modelo são incorporados no novo `index.html`, para facilitar as atualizações.
 
 1. Abre o site e escolhe **Gerir o arquivo**, no rodapé.
 2. Acrescenta ou edita notas, referências e trabalhos. Escolhe **Guardar neste navegador**.
@@ -28,7 +28,7 @@ A entrada apresenta o vídeo fornecido por Rita Martins, gerado com **Hailuo AI 
 
 ## Visualização das técnicas
 
-A cabeça em linhas e pontos na secção **Anatomia de um avatar** é uma ilustração didática 3D, gerada por regras geométricas para este site. Ajuda a visualizar forma, superfície e representação. Não representa uma pessoa ou um avatar patrimonial, nem é um resultado de CAP4D.
+O retrato luminoso na secção **Anatomia de um avatar** é uma ilustração artística criada com IA e inspirada em Fernando Pessoa, em tons de marfim e sálvia. A imagem é apresentada numa superfície curva com inclinação e parallax suaves, criando profundidade aparente. Não é uma reconstrução facial 3D, um resultado de CAP4D ou um avatar patrimonial validado.
 
 ## Acrescentar trabalhos 3D
 
@@ -40,7 +40,7 @@ Também podes usar **OBJ**: o visualizador aplica um material uniforme, sem carr
 
 ## As duas pastas entregues
 
-- **`diario-3d-publicar`** contém a versão preparada para publicação, com `index.html` e os recursos do vídeo e do templo. As exportações feitas no editor incorporam esses recursos num único `index.html`. Para atualizar, segue os passos acima; não é necessário editar um `content.json` separado.
+- **`diario-3d-publicar`** contém a versão preparada para publicação, com `index.html` e os recursos do vídeo, do retrato e do templo. As exportações feitas no editor incorporam esses recursos num único `index.html`. Para atualizar, segue os passos acima; não é necessário editar um `content.json` separado.
 - **`diario-3d`** contém a versão de desenvolvimento, com os textos em `content.json` e o design e funcionamento em ficheiros separados. Esta pasta é opcional e destina-se a alterações mais profundas. Mudar o seu `content.json` não atualiza o site publicado.
 
 Para experimentar a versão de desenvolvimento, usa uma pré-visualização de sites. Se tiveres Python, podes abrir um terminal nessa pasta, executar `python3 -m http.server 8000` e visitar <http://localhost:8000>. Nessa versão, um duplo clique em `index.html` pode impedir o carregamento dos conteúdos.
