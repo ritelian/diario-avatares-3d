@@ -57,10 +57,12 @@ Ficheiro fornecido: Hailuo_Video_Continue from the reference sc_5812553141550899
 Recursos web: assets/media/entrada-video.mp4 e entrada-video.json.
 A imagem entrada-capa.jpg é um fotograma de pré-visualização do mesmo vídeo.
 
-Cabeça 3D procedural — Anatomia de um avatar
-Ilustração didática original, com geometria gerada por regras matemáticas
-para este site e apresentada em linhas e pontos. Não é uma digitalização,
-um avatar patrimonial ou um resultado produzido por CAP4D.
-Direção visual indicada pela autora: https://recurziv.com/
-Esta referência orienta o estilo; não foram reutilizados modelos, imagens,
-texturas ou código desse site.
+Retrato artístico inspirado em Fernando Pessoa — Anatomia de um avatar
+Ilustração criada com IA para este site, com apoio das ferramentas de imagem
+OpenAI / Codex, em tons de marfim e sálvia. A apresentação aplica a imagem
+a uma superfície curva com inclinação e parallax suaves, para produzir
+profundidade aparente. Não é uma reconstrução facial 3D, um resultado de
+CAP4D ou um avatar patrimonial validado.
+Imagem de origem criada para o projeto: avatar-pessoa-luminoso.png.
+Referência de direção visual indicada pela autora: https://recurziv.com/
+Não foram reutilizados modelos, imagens, texturas ou código desse site.
