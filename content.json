@@ -4,7 +4,7 @@
     "author": "Rita Eliana Pacheco Martins",
     "updated": "2026-11-25",
     "coverageNote": "Arquivo ampliado em 25 de novembro de 2026 com os documentos de artefacto para o retiro, os materiais de Animação Digital, Pingas em diálogo, referências de pesquisa e o esboço da 2.ª Atividade Formativa de Estudo de Estado da Arte. As datas de registo retrospetivo estão identificadas nas notas. Os estados distinguem propostas, estudos realizados e obras publicadas. As referências são pontos de estudo; a sua presença não implica leitura integral ou teste pessoal concluído.",
-    "revision": "2026-11-25-percurso-01",
+    "revision": "2026-11-25-percurso-02",
     "schemaVersion": 2
   },
   "journal": [
@@ -947,7 +947,8 @@
         "A proposta de 25 de novembro está aberta a discussão. O próximo passo é delimitar um primeiro encontro, os conteúdos e a forma de participação do visitante."
       ],
       "visual": "literary",
-      "previewNote": "Proposta de artefacto em estudo para o retiro doutoral."
+      "previewNote": "Proposta de artefacto em estudo para o retiro doutoral. O retrato é um estudo visual animado a partir de uma imagem, com profundidade aproximada, movimento da cabeça e do olhar e pestanejos.",
+      "portrait": "pessoa"
     },
     {
       "id": "encontros-renascimento",
