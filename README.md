@@ -7,7 +7,9 @@ Diário de bordo de Rita Martins sobre avatares 3D, autoria, perceção e práti
 
 ## Atualizar o site publicado
 
-O **`index.html`** reúne o design, os textos, as fontes e o funcionamento do site. A publicação inclui também o modelo do templo em **`assets/models/templo.gltf`**, o vídeo de entrada em **`assets/media/entrada-video.json`** e o retrato luminoso em **`assets/media/avatar-pessoa.json`**. Ao exportares pelo editor, o vídeo, o retrato e o modelo são incorporados no novo `index.html`, para facilitar as atualizações.
+A versão preparada para publicação usa **`index.html`** e **`content.json`** separados. O segundo ficheiro contém as notas, as referências e os trabalhos. Conserva também a pasta `assets`, que inclui o templo, o vídeo de entrada, o retrato luminoso e as imagens e vídeos do portefólio.
+
+A atualização recomendada é feita em **Gerir o arquivo**. A exportação reúne os dados e os recursos num novo `index.html` autónomo. Esse é o ficheiro a substituir no GitHub ao seguir os passos abaixo.
 
 1. Abre o site e escolhe **Gerir o arquivo**, no rodapé.
 2. Acrescenta ou edita notas, referências e trabalhos. Escolhe **Guardar neste navegador**.
@@ -36,17 +38,23 @@ Usa **Adicionar trabalho** e seleciona um modelo. O formato recomendado é **GLB
 
 Também podes usar **OBJ**: o visualizador aplica um material uniforme, sem carregar MTL ou texturas externas. Arrasta para rodar e usa a roda do rato ou um gesto de pinça para aproximar. Podes alternar a malha, parar a rotação e repor a vista.
 
-**O templo** é a composição de Rita Martins para *Do Fragmento à Presença*, feita em Blender a partir da sua coluna original, com 24 instâncias, pavimento e cobertura. Conceção e montagem: Rita Martins; criação e edição com assistência de IA: OpenAI / Codex. O modelo aparece abaixo do vídeo de entrada e pode ser explorado em 3D, com rotação automática, arrasto, aproximação e reposição da vista. A versão web foi simplificada para acelerar o carregamento. **Pingas em diálogo** é um trabalho existente em p5.js.
+**O templo** é a composição de Rita Martins para *Do Fragmento à Presença*, feita em Blender a partir da sua coluna original, com 24 instâncias, pavimento e cobertura. Conceção e montagem: Rita Martins; criação e edição com assistência de IA: OpenAI / Codex. O modelo aparece abaixo do vídeo de entrada e pode ser explorado em 3D, com rotação automática, arrasto, aproximação e reposição da vista. A versão web foi simplificada para acelerar o carregamento. **Pingas em diálogo — Corpo de um encontro** é a obra em p5.js desenvolvida para o Professor Pedro, no contexto de *Imagens que lembram*. A capa mostra o modo de exemplo da própria obra, com dois participantes simulados.
 
 ## As duas pastas entregues
 
-- **`diario-3d-publicar`** contém a versão preparada para publicação, com `index.html` e os recursos do vídeo, do retrato e do templo. As exportações feitas no editor incorporam esses recursos num único `index.html`. Para atualizar, segue os passos acima; não é necessário editar um `content.json` separado.
-- **`diario-3d`** contém a versão de desenvolvimento, com os textos em `content.json` e o design e funcionamento em ficheiros separados. Esta pasta é opcional e destina-se a alterações mais profundas. Mudar o seu `content.json` não atualiza o site publicado.
+- **`diario-3d-publicar`** contém a versão preparada para o GitHub: `index.html`, `content.json` e a pasta `assets`. Ao publicar esta pasta pela primeira vez, mantém estes ficheiros e subpastas juntos. As atualizações exportadas pelo editor passam a reunir tudo num `index.html` autónomo.
+- **`diario-3d`** contém a versão de desenvolvimento, com o design e o funcionamento em ficheiros separados. Permite alterações mais profundas; os ficheiros só se tornam públicos depois de serem enviados para o GitHub.
+
+Os recursos incluem `assets/models/templo.gltf`, `assets/media/entrada-video.json`, `assets/media/avatar-pessoa.json` e `assets/media/portfolio-assets.json`. Este último reúne a animação da coluna, a sua capa e a capa de Pingas em diálogo. `assets/data/content-legacy.json` apoia a compatibilidade com notas anteriormente guardadas no navegador.
 
 Para experimentar a versão de desenvolvimento, usa uma pré-visualização de sites. Se tiveres Python, podes abrir um terminal nessa pasta, executar `python3 -m http.server 8000` e visitar <http://localhost:8000>. Nessa versão, um duplo clique em `index.html` pode impedir o carregamento dos conteúdos.
 
 ## Conteúdo inicial
 
-O arquivo reúne uma síntese retrospetiva preparada em 24 de novembro de 2026 a partir do diário e da biblioteca no Notion, de conversas de investigação e da clarificação dos avatares patrimoniais como objeto de trabalho. As datas indicam os registos de origem; as fontes pessoais mantêm o seu acesso privado.
+O arquivo reúne **14 notas, 16 referências e 6 trabalhos ou propostas**. Integra o diário e a biblioteca de estudo, a prática no DMAD e ideias para o artefacto do retiro doutoral. As datas indicam os registos de origem; quando a data do trabalho não está confirmada, a nota é identificada como registo retrospetivo.
 
-A presença de uma referência não indica leitura ou teste concluído. As experiências propostas e a exploração de Fernando Pessoa estão identificadas como trabalho por realizar e documentar.
+Os trabalhos apresentados são **Pingas em diálogo**, **Coluna em movimento** e **O templo**. As propostas **As Faces de Pessoa**, **Encontros no Renascimento** e **O rosto que fica** continuam em desenvolvimento. Os estados distinguem a obra publicada, o trabalho existente e as ideias por concretizar.
+
+A entrada da **2.ª Atividade Formativa de Estudo de Estado da Arte** conserva o texto de trabalho fornecido pela autora e as suas três referências bibliográficas. Está identificada como **Esboço em revisão**; não indica entrega ou aprovação da atividade.
+
+A proposta de artigo e os documentos da pasta **Paper** ficaram excluídos. Os documentos pessoais integrais não são distribuídos com o site. A presença de uma referência na biblioteca não indica leitura ou teste concluído.
